@@ -104,6 +104,7 @@ public class ThirdPersonController : MonoBehaviour
         if ( inputJump && cc.isGrounded )
         {
             isJumping = true;
+            Instantiate(_particlePrefab,transform.position, Quaternion.identity);
             // Disable crounching when jumping
             //isCrouching = false; 
         }
@@ -136,7 +137,6 @@ public class ThirdPersonController : MonoBehaviour
             // Apply inertia and smoothness when climbing the jump
             // It is not necessary when descending, as gravity itself will gradually pulls
             directionY = Mathf.SmoothStep(jumpForce, jumpForce * 0.30f, jumpElapsedTime / jumpTime) * Time.deltaTime;
-            Instantiate(_particlePrefab, transform.position, Quaternion.identity); ;
 
             // Jump timer
             jumpElapsedTime += Time.deltaTime;
