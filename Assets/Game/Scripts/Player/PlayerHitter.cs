@@ -25,6 +25,7 @@ public class PlayerHitter : MonoBehaviour
                 ApplyForce(rigidbody, _explosionForce, _explosionRadius);
                 ParticlesHitEffect(hit);
                 ScoreManager.instance.ModifyScore(_scorePerHit);
+                AudioPlayer.instance.PlayHittingClip();
             }
         }
         if (hit.gameObject.tag == "Hitted")
