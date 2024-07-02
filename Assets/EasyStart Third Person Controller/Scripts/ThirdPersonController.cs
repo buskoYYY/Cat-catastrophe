@@ -209,4 +209,14 @@ public class ThirdPersonController : MonoBehaviour
         }
     }
 
+    public void MoveEnable()
+    {
+        enabled = true;
+    }
+
+    public void MoveDisable() 
+    {
+        enabled = false;
+    }
+
 }

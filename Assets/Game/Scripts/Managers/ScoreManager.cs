@@ -5,7 +5,7 @@ public class ScoreManager : MonoBehaviour
     public static ScoreManager instance;
 
     [Header("Settings")]
-    private int _score;
+    private int _score = 0;
 
     private void Awake()
     {
@@ -16,6 +16,9 @@ public class ScoreManager : MonoBehaviour
         }
         else
             Destroy(this.gameObject);
+
+        _score = PlayerPrefs.GetInt("coins", 0);
+
     }
 
     public void ModifyScore(int value)
@@ -26,5 +29,10 @@ public class ScoreManager : MonoBehaviour
     public int GetScore()
     {
         return _score;
+    }
+    
+    public void SaveScore()
+    {
+       PlayerPrefs.SetInt("coins", _score);
     }
 }
