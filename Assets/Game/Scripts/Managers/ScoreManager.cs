@@ -1,24 +1,23 @@
+using System;
 using UnityEngine;
 
 public class ScoreManager : MonoBehaviour
 {
-    public static ScoreManager instance;
-
     [Header("Settings")]
     private int _score = 0;
 
     private void Awake()
     {
-        if (instance == null)
+        if (PlayerPrefs.HasKey("coins"))
         {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
+            _score = PlayerPrefs.GetInt("coins");
         }
         else
-            Destroy(this.gameObject);
-
+        {
+            Debug.Log("No collected coins data found. Setting score to 0.");
+            PlayerPrefs.SetInt("coins", 0);
+        }
         _score = PlayerPrefs.GetInt("coins", 0);
-
     }
 
     public void ModifyScore(int value)
@@ -28,6 +27,7 @@ public class ScoreManager : MonoBehaviour
 
     public int GetScore()
     {
+        _score = PlayerPrefs.GetInt("coins");
         return _score;
     }
     

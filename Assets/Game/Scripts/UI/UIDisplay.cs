@@ -8,15 +8,15 @@ public class UIDisplay : MonoBehaviour
 {
     [Header("Elements")]
     [SerializeField] private TextMeshProUGUI _text;
-    [SerializeField] private TextMeshProUGUI _textShopPanel;
     [SerializeField] private Sprite[] _soundImage;
-    [SerializeField] protected Image _image;
+    [SerializeField] private Image _image;
+    [SerializeField] private ScoreManager _scoreManager; 
 
 
     void Update()
     {
-        _text.text = ScoreManager.instance.GetScore().ToString();
-        _textShopPanel.text = ScoreManager.instance.GetScore().ToString();
+        _text.text = _scoreManager.GetScore().ToString();
     }
+
 }
 

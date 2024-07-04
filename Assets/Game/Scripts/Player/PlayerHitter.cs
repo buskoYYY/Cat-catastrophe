@@ -5,6 +5,7 @@ public class PlayerHitter : MonoBehaviour
     [Header("Elements")]
     [SerializeField] private ParticleSystem[] _particlesPref;
     [SerializeField] private GameObject _scoreText;
+    [SerializeField] private ScoreManager _scoreManager;
 
     [Header("Settings")]
     [SerializeField] private float _explosionForce;
@@ -24,8 +25,8 @@ public class PlayerHitter : MonoBehaviour
                 iTween.PunchScale(_scoreText, new Vector3(1.5f, 1.5f, 1.5f), 1.5f);
                 ApplyForce(rigidbody, _explosionForce, _explosionRadius);
                 ParticlesHitEffect(hit);
-                ScoreManager.instance.ModifyScore(_scorePerHit);
-                ScoreManager.instance.SaveScore();
+                _scoreManager.ModifyScore(_scorePerHit);
+                _scoreManager.SaveScore();
                 AudioPlayer.instance.PlayHittingClip();
             }
         }
