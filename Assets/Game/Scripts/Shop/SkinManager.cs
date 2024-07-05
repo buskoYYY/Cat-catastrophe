@@ -8,13 +8,12 @@ public class SkinManager : ScriptableObject
 
     [Header("Const")]
     private const string Prefix = "Skin_";
-    private const string SelectedSkin = "SelectedSkin";
 
-    public void SelectSkin(int skinIndex) => PlayerPrefs.SetInt(SelectedSkin, skinIndex);
+    public void SelectSkin(int skinIndex) => PlayerPrefs.SetInt("SelectedSkin", skinIndex);
 
     public Skin GetSelectedSkin()
     {
-        int skinIndex = PlayerPrefs.GetInt(SelectedSkin, 0);
+        int skinIndex = PlayerPrefs.GetInt("SelectedSkin", 0);
         if (skinIndex >= 0 && skinIndex < skins.Length)
             return skins[skinIndex];
         else

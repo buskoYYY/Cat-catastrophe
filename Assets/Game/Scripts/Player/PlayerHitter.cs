@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerHitter : MonoBehaviour
 {
     [Header("Elements")]
-    [SerializeField] private ParticleSystem[] _particlesPref;
+    [SerializeField] private GameObject[] _particlesPref;
     [SerializeField] private GameObject _scoreText;
     [SerializeField] private ScoreManager _scoreManager;
 
@@ -44,6 +44,7 @@ public class PlayerHitter : MonoBehaviour
     private void ParticlesHitEffect(ControllerColliderHit hit)
     {
         int random = Random.Range(0, _particlesPref.Length);
-        Instantiate(_particlesPref[random], hit.transform.position + new Vector3(0, 1, 0), Quaternion.identity);
+        var particles = Instantiate(_particlesPref[random], hit.transform.position + new Vector3(0, 1, 0), Quaternion.identity);
+        Destroy(particles,2);
     }
 }
