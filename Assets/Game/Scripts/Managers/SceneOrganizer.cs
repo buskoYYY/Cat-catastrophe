@@ -14,7 +14,6 @@ public class SceneOrganizer : MonoBehaviour
         else
             Destroy(this.gameObject);
     }
-
     public void LoadNextScene()
     {
         int currentScene = SceneManager.GetActiveScene().buildIndex;

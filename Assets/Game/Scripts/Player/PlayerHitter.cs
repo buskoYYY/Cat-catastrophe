@@ -3,14 +3,16 @@ using UnityEngine;
 public class PlayerHitter : MonoBehaviour
 {
     [Header("Elements")]
-    [SerializeField] private GameObject[] _particlesPref;
-    [SerializeField] private GameObject _scoreText;
+    [SerializeField] private Particles _particles;
     [SerializeField] private ScoreManager _scoreManager;
+    [SerializeField] private CurrencySystem _currencySystem;
+    [SerializeField] private UIDisplay _uIDisplay;
 
     [Header("Settings")]
     [SerializeField] private float _explosionForce;
     [SerializeField] private float _explosionRadius;
     [SerializeField] private int _scorePerHit;
+    [SerializeField] private int _currencyPerHit;
 
     private void OnControllerColliderHit(ControllerColliderHit hit)
     {
@@ -22,12 +24,8 @@ public class PlayerHitter : MonoBehaviour
             {
                 hit.gameObject.tag = "Hitted";
                 rigidbody.isKinematic = false;
-                iTween.PunchScale(_scoreText, new Vector3(1.5f, 1.5f, 1.5f), 1.5f);
                 ApplyForce(rigidbody, _explosionForce, _explosionRadius);
-                ParticlesHitEffect(hit);
-                _scoreManager.ModifyScore(_scorePerHit);
-                _scoreManager.SaveScore();
-                AudioPlayer.instance.PlayHittingClip();
+                HitEffect(hit);
             }
         }
         if (hit.gameObject.tag == "Hitted")
@@ -36,15 +34,23 @@ public class PlayerHitter : MonoBehaviour
         }
     }
 
+    private void HitEffect(ControllerColliderHit hit)
+    {
+        CoinsHitEffect();
+        _particles.ParticlesHitEffect(hit);
+        AudioPlayer.instance.PlayHittingClip();
+        _uIDisplay.TweenEffect();
+    }
+
+    private void CoinsHitEffect()
+    {
+        _scoreManager.ModifyScore(_scorePerHit);
+        _currencySystem.ModifyCurrency(_currencyPerHit);
+        _scoreManager.SaveScore();
+    }
+
     private void ApplyForce(Rigidbody rigidbody, float explosionForce, float explosionRadius)
     {
         rigidbody.AddExplosionForce(explosionForce, transform.position + Vector3.down, explosionRadius);
-    }
-
-    private void ParticlesHitEffect(ControllerColliderHit hit)
-    {
-        int random = Random.Range(0, _particlesPref.Length);
-        var particles = Instantiate(_particlesPref[random], hit.transform.position + new Vector3(0, 1, 0), Quaternion.identity);
-        Destroy(particles,2);
     }
 }

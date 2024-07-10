@@ -8,9 +8,6 @@ public class AudioPlayer : MonoBehaviour
 
     public static AudioPlayer instance;
 
-    [Header("Settings")]
-    private int _score;
-
     private void Awake()
     {
         if (instance == null)
@@ -34,10 +31,5 @@ public class AudioPlayer : MonoBehaviour
             Vector3 cameraPos = Camera.main.transform.position;
             AudioSource.PlayClipAtPoint(clip, cameraPos, volume);
         }
-    }
-
-    public void ToggleAudioState()
-    {
-
     }
 }

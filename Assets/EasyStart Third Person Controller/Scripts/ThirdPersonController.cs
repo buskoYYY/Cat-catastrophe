@@ -28,7 +28,7 @@ public class ThirdPersonController : MonoBehaviour
     [Tooltip("Force that pulls the player down. Changing this value causes all movement, jumping and falling to be changed as well.")]
     public float gravity = 9.8f;
     [Tooltip("Particle effect when player jumping")]
-    [SerializeField] private ParticleSystem _particlePrefab;
+    [SerializeField] Particles _particles;
 
     float jumpElapsedTime = 0;
 
@@ -104,7 +104,7 @@ public class ThirdPersonController : MonoBehaviour
         if ( inputJump && cc.isGrounded )
         {
             isJumping = true;
-            Instantiate(_particlePrefab,transform.position, Quaternion.identity);
+            _particles.PlayJumpParticles(transform.position);
             // Disable crounching when jumping
             //isCrouching = false; 
         }
