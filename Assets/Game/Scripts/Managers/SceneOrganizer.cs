@@ -4,6 +4,9 @@ using UnityEngine.SceneManagement;
 public class SceneOrganizer : MonoBehaviour
 {
     public static SceneOrganizer instance;
+
+    [Header("Settings")]
+    private int _currentScene;
     private void Awake()
     {
         if (instance == null)
@@ -13,10 +16,16 @@ public class SceneOrganizer : MonoBehaviour
         }
         else
             Destroy(this.gameObject);
+
+        _currentScene = SceneManager.GetActiveScene().buildIndex;
+    }
+
+    public void LoadCurrentScene()
+    {
+        SceneManager.LoadScene(_currentScene);
     }
     public void LoadNextScene()
     {
-        int currentScene = SceneManager.GetActiveScene().buildIndex;
-        SceneManager.LoadScene(currentScene + 1);
+        SceneManager.LoadScene(_currentScene + 1);
     }
 }

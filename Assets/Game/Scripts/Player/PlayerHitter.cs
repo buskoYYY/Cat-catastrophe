@@ -6,7 +6,7 @@ public class PlayerHitter : MonoBehaviour
     [SerializeField] private Particles _particles;
     [SerializeField] private ScoreManager _scoreManager;
     [SerializeField] private CurrencySystem _currencySystem;
-    [SerializeField] private UIDisplay _uIDisplay;
+    [SerializeField] private TweenEffects _tweenEffects;
 
     [Header("Settings")]
     [SerializeField] private float _explosionForce;
@@ -39,7 +39,7 @@ public class PlayerHitter : MonoBehaviour
         CoinsHitEffect();
         _particles.ParticlesHitEffect(hit);
         AudioPlayer.instance.PlayHittingClip();
-        _uIDisplay.TweenEffect();
+        _tweenEffects.TweenScaleEffect();
     }
 
     private void CoinsHitEffect()
