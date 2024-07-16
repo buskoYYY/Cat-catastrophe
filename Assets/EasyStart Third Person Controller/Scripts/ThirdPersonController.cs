@@ -29,6 +29,8 @@ public class ThirdPersonController : MonoBehaviour
     public float gravity = 9.8f;
     [Tooltip("Particle effect when player jumping")]
     [SerializeField] Particles _particles;
+    [Tooltip("Player position when new level opened")]
+    [SerializeField] SavePlayerPosition _newPlayerPOsition;
 
     float jumpElapsedTime = 0;
 
@@ -51,6 +53,7 @@ public class ThirdPersonController : MonoBehaviour
 
     void Start()
     {
+        transform.position = _newPlayerPOsition.LoadPlayerPosition();
         cc = GetComponent<CharacterController>();
         animator = GetComponent<Animator>();
         playerAnimator = GetComponent<PlayerAnimator>();

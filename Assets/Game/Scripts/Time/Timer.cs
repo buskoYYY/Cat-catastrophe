@@ -40,6 +40,11 @@ public class Timer : MonoBehaviour
             SetTimer();
         }
     }
+
+    public void ReloadTime()
+    {
+        _playTime = _initialPlayTime;
+    }
     private void SetTimer()
     {
         _playTime -= Time.deltaTime;

@@ -3,20 +3,10 @@ using UnityEngine.SceneManagement;
 
 public class SceneOrganizer : MonoBehaviour
 {
-    public static SceneOrganizer instance;
-
     [Header("Settings")]
     private int _currentScene;
     private void Awake()
     {
-        if (instance == null)
-        {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-            Destroy(this.gameObject);
-
         _currentScene = SceneManager.GetActiveScene().buildIndex;
     }
 

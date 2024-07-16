@@ -45,7 +45,7 @@ public class PlayerHitter : MonoBehaviour
     private void CoinsHitEffect()
     {
         _scoreManager.ModifyScore(_scorePerHit);
-        _currencySystem.ModifyCurrency(_currencyPerHit);
+        _currencySystem.AddCurrency(_currencyPerHit);
         _scoreManager.SaveScore();
     }
 

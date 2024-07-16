@@ -6,9 +6,14 @@ public class CurrencySystem : MonoBehaviour
     [SerializeField] private int _currencyPerHit;
     private int _currency = 0;
 
-    public void ModifyCurrency(int value)
+    public void AddCurrency(int value)
     {
         _currency += value;
+    }
+
+    public void SubtractCurrency(int value)
+    {
+        _currency -= value;
     }
     public int GetCurrency()
     {
