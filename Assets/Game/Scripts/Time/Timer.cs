@@ -1,14 +1,11 @@
-using NaughtyAttributes;
-using NaughtyAttributes.Editor;
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(ExtraTimeController))]
 [RequireComponent(typeof(PauseTimer))]
 public class Timer : MonoBehaviour
 {
+    [Header("Action")]
     public static Action AcivateTimeEndPanel;
     public static Action DeacivateTimeEndPanel;
 

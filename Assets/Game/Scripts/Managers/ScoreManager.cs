@@ -13,7 +13,6 @@ public class ScoreManager : MonoBehaviour
         }
         else
         {
-            Debug.Log("No collected coins data found. Setting score to 0.");
             PlayerPrefs.SetInt("coins", 0);
         }
         _score = PlayerPrefs.GetInt("coins", 0);

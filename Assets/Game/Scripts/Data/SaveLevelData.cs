@@ -5,9 +5,11 @@ using UnityEngine;
 public class SaveLevelData : MonoBehaviour
 {
     [Header("Elements")]
-    [SerializeField] private SavePlayerPosition _playerPosition;
-    public void SaveData(Vector3 nextLevelPlayerPOsition)
+    [SerializeField] private PlayerPositionData _playerPosition;
+    [SerializeField] private StageData _levelData;
+    public void SaveData(Vector3 currentLevelPosition, int currentLevel)
     {
-        _playerPosition.SavePlayerGamePosition(nextLevelPlayerPOsition);
+        _playerPosition.SavePlayerGamePosition(currentLevelPosition);
+        _levelData.SaveStageNumber(currentLevel);
     }
 }
