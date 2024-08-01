@@ -4,7 +4,6 @@ using UnityEngine.UI;
 
 public class SkinShopItem : MonoBehaviour
 {
-
     [Header("Elements")]
     [SerializeField] private SkinManager _skinManager;
     [SerializeField] private Button _buyButton;
@@ -13,13 +12,13 @@ public class SkinShopItem : MonoBehaviour
 
     [Header("Settings")]
     [SerializeField] private int _skinIndex;
-
     private void Start()
     {
+        Debug.Log("Hi");
         _skin = _skinManager.skins[_skinIndex];
         GetComponent<Image>().sprite = _skin.sprite;
 
-        if(_skinManager.IsUnlocked(_skinIndex))
+        if (_skinManager.IsUnlocked(_skinIndex))
         {
             _buyButton.gameObject.SetActive(false);
         }
@@ -32,7 +31,7 @@ public class SkinShopItem : MonoBehaviour
 
     public void OnSkinPressed()
     {
-        if(_skinManager.IsUnlocked(_skinIndex))
+        if (_skinManager.IsUnlocked(_skinIndex))
         {
             _skinManager.SelectSkin(_skinIndex);
         }
@@ -41,12 +40,12 @@ public class SkinShopItem : MonoBehaviour
     public void OnBuyButtonPressed()
     {
         int coins = PlayerPrefs.GetInt("coins", 0);
-        if(coins >= _skin.cost && !_skinManager.IsUnlocked(_skinIndex))
+        if (coins >= _skin.cost && !_skinManager.IsUnlocked(_skinIndex))
         {
             PlayerPrefs.SetInt("coins", coins - _skin.cost);
             _skinManager.Unlock(_skinIndex);
-            _buyButton.gameObject.SetActive(false );
-            _skinManager.SelectSkin( _skinIndex);
+            _buyButton.gameObject.SetActive(false);
+            _skinManager.SelectSkin(_skinIndex);
         }
         else
         {

@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class LoadPosition : MonoBehaviour
 {
-    [Header("Elements")]
-    [SerializeField] private PlayerPositionData _playerLoadPos;
+    //[Header("Elements")]
+    //[SerializeField] private PlayerPositionData _playerLoadPos;
 
     void Start()
     {
-       _playerLoadPos.LoadPlayerPosition();
+       //_playerLoadPos.LoadPlayerPosition();
     }
 }

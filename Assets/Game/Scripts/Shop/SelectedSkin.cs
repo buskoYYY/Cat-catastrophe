@@ -10,7 +10,6 @@ public class SelectedSkin : MonoBehaviour
 
     private void Update()
     {
-
         DisPlaySelectedSkin();
     }
     private void DisPlaySelectedSkin() => _selectedSkin.sprite = _skinManager.GetSelectedSkin().sprite;

@@ -1,10 +1,18 @@
+using System.Diagnostics;
+using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
+using System;
 
 public class AudioPlayer : MonoBehaviour
 {
     [Header("Elements")]
     [SerializeField] AudioClip hittingClip;
     [SerializeField][Range(0f, 1f)] float hittingVolume = 1f;
+    private AudioSource _audioSource;
+
+    [Header("Elements")]
+    private bool _isUnmute = true;
 
     public static AudioPlayer instance;
 
@@ -19,8 +27,23 @@ public class AudioPlayer : MonoBehaviour
             Destroy(this.gameObject);
     }
 
+    private void Start()
+    {
+        _audioSource = GetComponent<AudioSource>();
+    }
+    private void OnEnable()
+    {
+        ToggleAudioState.SoundOff += MusicOff;
+        ToggleAudioState.SoundOn += MusicOn;
+    }
+    private void OnDisable()
+    {
+        ToggleAudioState.SoundOff -= MusicOff;
+        ToggleAudioState.SoundOn -= MusicOn;
+    }
     public void PlayHittingClip()
     {
+        if(_isUnmute)
         PlayClip(hittingClip, hittingVolume);
     }
 
@@ -31,5 +54,15 @@ public class AudioPlayer : MonoBehaviour
             Vector3 cameraPos = Camera.main.transform.position;
             AudioSource.PlayClipAtPoint(clip, cameraPos, volume);
         }
+    }
+    private void MusicOn()
+    {
+        _audioSource.enabled = true;
+        _isUnmute = true;
+    }
+    private void MusicOff()
+    {
+        _audioSource.enabled = false;
+        _isUnmute = false;
     }
 }
