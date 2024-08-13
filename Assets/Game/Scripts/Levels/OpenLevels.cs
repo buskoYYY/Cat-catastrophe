@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class OpenLevels : MonoBehaviour
 {
     [Header("Elements")]
-    [SerializeField] private Level [] _levels;
+    [SerializeField] private Level[] _levels;
     [SerializeField] private CurrencySystem _currencySystem;
     [SerializeField] private SaveLevelData _saveLevelData;
     [SerializeField] private StageData _stageData;
@@ -13,20 +13,25 @@ public class OpenLevels : MonoBehaviour
     [SerializeField] private Button _button;
     [SerializeField] private GameObject _player;
     [SerializeField] private GameObject _timeendPanel;
+    [SerializeField] private Image _pawImage;
 
     [Header("Settings")]
-    private int _currentLevel; 
+    private int _currentLevel;
     private int _currenceAmmount;
+    private int _currentLevelPrice;
+    string nextLevelPriceText;
 
     private void Start()
     {
         _wallStateData.SetWallsState(_levels);
+        _currentLevel = _stageData.CurrentStage;
+        Debug.Log(_currentLevel);
+        Debug.Log("Level" + _levels.Length);
 
     }
     public void LoadNextLevel()
     {
         _currenceAmmount = _currencySystem.GetCurrency();
-        _currentLevel = _stageData.CurrentStage;
 
         for (int i = 0; i < _levels.Length; i++)
         {
@@ -51,5 +56,18 @@ public class OpenLevels : MonoBehaviour
         }
     }
 
-   
+    public string GetNextLevelPrice()
+    {
+        if (_currentLevel <= _levels.Length)
+        {
+            _currentLevelPrice = _levels[_currentLevel - 1].price;
+            nextLevelPriceText = "×ÒÎ ÁÛ ÎÒÊÐÛÒÜ ÑËÅÄÓÞÙÈÉ ÓÐÎÂÅÍÜ ÂÀÌ ÍÓÆÍÎ " + _currentLevelPrice;
+        }
+        else
+        {
+            nextLevelPriceText = "ÏÎÇÄÐÀÂËßÅÌ, ÂÛ ÏÐÎØËÈ ÂÑÅ ÓÐÎÂÍÈ!!!";
+            _pawImage.gameObject.SetActive(false);
+        }
+        return nextLevelPriceText;
+    }
 }

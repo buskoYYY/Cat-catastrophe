@@ -14,7 +14,6 @@ public class SkinShopItem : MonoBehaviour
     [SerializeField] private int _skinIndex;
     private void Start()
     {
-        Debug.Log("Hi");
         _skin = _skinManager.skins[_skinIndex];
         GetComponent<Image>().sprite = _skin.sprite;
 

@@ -10,6 +10,7 @@ public class StageData : MonoBehaviour
     private void Start()
     {
         _currentStage = LoadStageNumber();
+        Debug.Log("Stage " + _currentStage);
     }
     
     public void SaveStageNumber(int level)

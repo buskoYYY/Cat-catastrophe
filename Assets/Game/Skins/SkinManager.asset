@@ -13,19 +13,19 @@ MonoBehaviour:
   m_Name: SkinManager
   m_EditorClassIdentifier: 
   skins:
-  - sprite: {fileID: 21300000, guid: 47ff15a1068ec4543a0325920bcb3609, type: 3}
+  - sprite: {fileID: 21300000, guid: 8e1104a649922a448a0d40747eee62a0, type: 3}
     cost: 0
-  - sprite: {fileID: 21300000, guid: cb2f54cfe2ae59e4793309075fa7d148, type: 3}
+  - sprite: {fileID: 21300000, guid: a311d7abd154f7d46b9251a6191c3673, type: 3}
     cost: 1
-  - sprite: {fileID: 21300000, guid: 7e41703a05959bd4d857db75f687d06b, type: 3}
+  - sprite: {fileID: 21300000, guid: ba02d13df8506474e8a85753133cf74a, type: 3}
     cost: 2
-  - sprite: {fileID: 21300000, guid: 47ff15a1068ec4543a0325920bcb3609, type: 3}
+  - sprite: {fileID: 21300000, guid: b340da95e677cbb42b7b22cc65895528, type: 3}
     cost: 3
-  - sprite: {fileID: 21300000, guid: cb2f54cfe2ae59e4793309075fa7d148, type: 3}
-    cost: 2
-  - sprite: {fileID: 21300000, guid: 7e41703a05959bd4d857db75f687d06b, type: 3}
-    cost: 2
-  - sprite: {fileID: 21300000, guid: 47ff15a1068ec4543a0325920bcb3609, type: 3}
-    cost: 1
-  - sprite: {fileID: 21300000, guid: cb2f54cfe2ae59e4793309075fa7d148, type: 3}
-    cost: 1
+  - sprite: {fileID: 21300000, guid: 04c48668d33f1b34ea8d2d985dd57345, type: 3}
+    cost: 4
+  - sprite: {fileID: 21300000, guid: 8b977aefce9eb5940a4aa72306e462d6, type: 3}
+    cost: 5
+  - sprite: {fileID: 21300000, guid: 1a504418c7ecc5d4a93bc8293dcbc17c, type: 3}
+    cost: 6
+  - sprite: {fileID: 21300000, guid: f86cb5ff71b9bca4789694ba951100ec, type: 3}
+    cost: 7

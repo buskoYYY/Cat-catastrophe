@@ -6,6 +6,15 @@ public class ChangeHat : MonoBehaviour
     [SerializeField] private GameObject[] _hats;
     private GameObject currentHat;
 
+    [Header("Settings")]
+    private int currentHatIndex;
+
+    private void Start()
+    {
+        currentHatIndex = PlayerPrefs.GetInt("SelectedSkin");
+        currentHat = _hats[currentHatIndex];
+        currentHat.SetActive(true);
+    }
     public void PutHat()
     {
         if (currentHat != null)

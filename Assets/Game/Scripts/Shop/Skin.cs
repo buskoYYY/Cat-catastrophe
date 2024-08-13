@@ -6,5 +6,3 @@ public class Skin
     public Sprite sprite;
     public int cost;
 }
-
-

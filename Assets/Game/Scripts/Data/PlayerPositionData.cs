@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class PlayerPositionData : MonoBehaviour
 {
+    [Header("Elements")]
+    [SerializeField] GameObject _playerPosition;
     [Header("Settings")]
     private string positionKey = "player_position";
 
@@ -21,7 +23,7 @@ public class PlayerPositionData : MonoBehaviour
         }
         else
         {
-            return Vector3.zero;
+            return _playerPosition.transform.position;
         }
     }
 }
