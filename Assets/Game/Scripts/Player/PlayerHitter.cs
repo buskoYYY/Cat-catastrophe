@@ -51,6 +51,6 @@ public class PlayerHitter : MonoBehaviour
 
     private void ApplyForce(Rigidbody rigidbody, float explosionForce, float explosionRadius)
     {
-        rigidbody.AddExplosionForce(explosionForce, transform.position + Vector3.down, explosionRadius);
+        rigidbody.AddExplosionForce(explosionForce, transform.position + Vector3.down, explosionRadius,.2f);
     }
 }

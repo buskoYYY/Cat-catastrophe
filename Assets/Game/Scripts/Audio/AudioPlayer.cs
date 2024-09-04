@@ -7,8 +7,8 @@ using System;
 public class AudioPlayer : MonoBehaviour
 {
     [Header("Elements")]
-    [SerializeField] AudioClip hittingClip;
-    [SerializeField][Range(0f, 1f)] float hittingVolume = 1f;
+    [SerializeField] private AudioClip _hittingClip;
+    [SerializeField][Range(0f, 1f)] private float _hittingVolume = 1f;
     private AudioSource _audioSource;
 
     [Header("Elements")]
@@ -44,7 +44,7 @@ public class AudioPlayer : MonoBehaviour
     public void PlayHittingClip()
     {
         if(_isUnmute)
-        PlayClip(hittingClip, hittingVolume);
+        PlayClip(_hittingClip, _hittingVolume);
     }
 
     private void PlayClip(AudioClip clip, float volume)

@@ -11,9 +11,10 @@ public class CurrencySystem : MonoBehaviour
         _currency += value;
     }
 
-    public void SubtractCurrency(int value)
+    public int SubtractCurrency(int value)
     {
         _currency -= value;
+        return _currency;
     }
     public int GetCurrency()
     {

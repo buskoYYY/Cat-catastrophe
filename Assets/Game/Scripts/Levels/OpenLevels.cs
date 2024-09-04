@@ -25,18 +25,16 @@ public class OpenLevels : MonoBehaviour
     {
         _wallStateData.SetWallsState(_levels);
         _currentLevel = _stageData.CurrentStage;
-        Debug.Log(_currentLevel);
-        Debug.Log("Level" + _levels.Length);
-
     }
+
     public void LoadNextLevel()
     {
         _currenceAmmount = _currencySystem.GetCurrency();
-
         for (int i = 0; i < _levels.Length; i++)
         {
             if (i == _currentLevel - 1)
             {
+                _currenceAmmount = _currencySystem.GetCurrency();
                 if (_currenceAmmount >= _levels[i].price)
                 {
                     _timeendPanel.SetActive(false);
