@@ -2,15 +2,15 @@ using UnityEngine;
 
 public class PlayerAnimator : MonoBehaviour
 {
-    [SerializeField] private Animator animator;
+    [SerializeField] private Animator _animator;
 
     public void PlayIdleAnimation()
     {
-        animator.Play("idle");
+        _animator.Play("idle");
     }
 
     public void PlayWalkAnimation() 
     {
-        animator.Play("walk");
+        _animator.Play("walk");
     }
 }

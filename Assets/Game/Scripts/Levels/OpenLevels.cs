@@ -19,7 +19,8 @@ public class OpenLevels : MonoBehaviour
     private int _currentLevel;
     private int _currenceAmmount;
     private int _currentLevelPrice;
-    string nextLevelPriceText;
+    private string _nextLevelPriceText;
+    private bool _isLevelSelected; 
 
     private void Start()
     {
@@ -29,6 +30,7 @@ public class OpenLevels : MonoBehaviour
 
     public void LoadNextLevel()
     {
+        _isLevelSelected = true;
         _currenceAmmount = _currencySystem.GetCurrency();
         for (int i = 0; i < _levels.Length; i++)
         {
@@ -44,6 +46,7 @@ public class OpenLevels : MonoBehaviour
                     _timer.ReloadTime();
                     Vector3 playerSpawnPosition = _levels[i].spawnPosition.position;
                     _saveLevelData.SaveData(playerSpawnPosition, _currentLevel);
+                    return;
                 }
                 else
                 {
@@ -59,13 +62,13 @@ public class OpenLevels : MonoBehaviour
         if (_currentLevel <= _levels.Length)
         {
             _currentLevelPrice = _levels[_currentLevel - 1].price;
-            nextLevelPriceText = "×ÒÎ ÁÛ ÎÒÊÐÛÒÜ ÑËÅÄÓÞÙÈÉ ÓÐÎÂÅÍÜ ÂÀÌ ÍÓÆÍÎ " + _currentLevelPrice;
+            _nextLevelPriceText = "×ÒÎ ÁÛ ÎÒÊÐÛÒÜ ÑËÅÄÓÞÙÈÉ ÓÐÎÂÅÍÜ ÂÀÌ ÍÓÆÍÎ " + _currentLevelPrice;
         }
         else
         {
-            nextLevelPriceText = "ÏÎÇÄÐÀÂËßÅÌ, ÂÛ ÏÐÎØËÈ ÂÑÅ ÓÐÎÂÍÈ!!!";
+            _nextLevelPriceText = "ÏÎÇÄÐÀÂËßÅÌ, ÂÛ ÏÐÎØËÈ ÂÑÅ ÓÐÎÂÍÈ!!!";
             _pawImage.gameObject.SetActive(false);
         }
-        return nextLevelPriceText;
+        return _nextLevelPriceText;
     }
 }
