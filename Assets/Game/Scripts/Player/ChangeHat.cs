@@ -11,7 +11,7 @@ public class ChangeHat : MonoBehaviour
 
     private void Start()
     {
-        currentHatIndex = PlayerPrefs.GetInt("SelectedSkin");
+        currentHatIndex = YG.SavesYG.GetInt("SelectedSkin");
         currentHat = _hats[currentHatIndex];
         currentHat.SetActive(true);
     }
@@ -21,7 +21,7 @@ public class ChangeHat : MonoBehaviour
         {
             currentHat.SetActive(false);
         }
-        int selectedSkin = PlayerPrefs.GetInt("SelectedSkin");
+        int selectedSkin = YG.SavesYG.GetInt("SelectedSkin");
         for (int i = 0; i < _hats.Length; i++)
         {
             if (i == selectedSkin)

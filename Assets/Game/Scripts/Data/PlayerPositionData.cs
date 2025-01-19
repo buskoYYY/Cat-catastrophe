@@ -9,16 +9,15 @@ public class PlayerPositionData : MonoBehaviour
 
     public void SavePlayerGamePosition(Vector3 playerPosition)
     {
-        PlayerPrefs.SetString(positionKey, JsonUtility.ToJson(playerPosition));
+        YG.SavesYG.SetString(positionKey, JsonUtility.ToJson(playerPosition));
         PlayerPrefs.Save();
     }
     public Vector3 LoadPlayerPosition()
     {
-        if (PlayerPrefs.HasKey(positionKey))
+        if (YG.SavesYG.HasKey(positionKey))
         {
-            string jsonString = PlayerPrefs.GetString(positionKey);
+            string jsonString = YG.SavesYG.GetString(positionKey);
             Vector3 loadedPosition = JsonUtility.FromJson<Vector3>(jsonString);
-            Debug.Log("Player position loaded: " + loadedPosition);
             return loadedPosition;
         }
         else

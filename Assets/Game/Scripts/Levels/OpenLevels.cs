@@ -1,5 +1,7 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using YaAssets;
 
 public class OpenLevels : MonoBehaviour
 {
@@ -10,15 +12,18 @@ public class OpenLevels : MonoBehaviour
     [SerializeField] private StageData _stageData;
     [SerializeField] private WallStateData _wallStateData;
     [SerializeField] private Timer _timer;
-    [SerializeField] private Button _button;
+    [SerializeField] private Button _openLevelButton;
+    [SerializeField] private Button startNewGameButton;
     [SerializeField] private GameObject _player;
     [SerializeField] private GameObject _timeendPanel;
+    [SerializeField] private AIActivator _aIActivtor;
     [SerializeField] private Image _pawImage;
 
     [Header("Settings")]
     private int _currentLevel;
     private int _currenceAmmount;
     private int _currentLevelPrice;
+    private int _firtSceneIndex = 1;
     private string _nextLevelPriceText;
     private bool _isLevelSelected; 
 
@@ -39,36 +44,50 @@ public class OpenLevels : MonoBehaviour
                 _currenceAmmount = _currencySystem.GetCurrency();
                 if (_currenceAmmount >= _levels[i].price)
                 {
-                    _timeendPanel.SetActive(false);
-                    _currencySystem.SubtractCurrency(_levels[i].price);
-                    _currentLevel++;
-                    _levels[i].wall.SetActive(false);
-                    _timer.ReloadTime();
-                    Vector3 playerSpawnPosition = _levels[i].spawnPosition.position;
-                    _saveLevelData.SaveData(playerSpawnPosition, _currentLevel);
+                    LoadLevelRoutine(i);
                     return;
                 }
                 else
                 {
-                    _button.interactable = false;
-                    _button.interactable = true;
+                    _openLevelButton.interactable = false;
+                    _openLevelButton.interactable = true;
                 }
             }
+            _aIActivtor.StartAI(i);
         }
     }
 
-    public string GetNextLevelPrice()
+    private void LoadLevelRoutine(int i)
+    {
+        _timeendPanel.SetActive(false);
+        _currencySystem.SubtractCurrency(_levels[i].price);
+        _currentLevel++;
+        _levels[i].wall.SetActive(false);
+        _timer.ReloadTime();
+        Vector3 playerSpawnPosition = _levels[i].spawnPosition.position;
+        _saveLevelData.SaveData(playerSpawnPosition, _currentLevel);
+    }
+
+    public string GetNextLevel()
     {
         if (_currentLevel <= _levels.Length)
         {
             _currentLevelPrice = _levels[_currentLevel - 1].price;
-            _nextLevelPriceText = "×ÒÎ ÁÛ ÎÒÊÐÛÒÜ ÑËÅÄÓÞÙÈÉ ÓÐÎÂÅÍÜ ÂÀÌ ÍÓÆÍÎ " + _currentLevelPrice;
+            _nextLevelPriceText = Localization.GetText("×ÒÎ ÁÛ ÎÒÊÐÛÒÜ ÑËÅÄÓÞÙÈÉ ÓÐÎÂÅÍÜ ÂÀÌ ÍÓÆÍÎ ") + _currentLevelPrice;
         }
         else
         {
-            _nextLevelPriceText = "ÏÎÇÄÐÀÂËßÅÌ, ÂÛ ÏÐÎØËÈ ÂÑÅ ÓÐÎÂÍÈ!!!";
+            _nextLevelPriceText = Localization.GetText("ÏÎÇÄÐÀÂËßÅÌ, ÂÛ ÏÐÎØËÈ ÂÑÅ ÓÐÎÂÍÈ!!!");
             _pawImage.gameObject.SetActive(false);
+            _openLevelButton.gameObject.SetActive(false);
+            startNewGameButton.gameObject.SetActive(true);
         }
         return _nextLevelPriceText;
+    }
+
+    public void StartNewGame()
+    {
+        YG.SavesYG.DeleteAll();
+        SceneManager.LoadScene(_firtSceneIndex);
     }
 }

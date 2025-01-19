@@ -38,10 +38,10 @@ public class SkinShopItem : MonoBehaviour
 
     public void OnBuyButtonPressed()
     {
-        int coins = PlayerPrefs.GetInt("coins", 0);
+        int coins = YG.SavesYG.GetInt("coins", 0);
         if (coins >= _skin.cost && !_skinManager.IsUnlocked(_skinIndex))
         {
-            PlayerPrefs.SetInt("coins", coins - _skin.cost);
+            YG.SavesYG.SetInt("coins", coins - _skin.cost);
             _skinManager.Unlock(_skinIndex);
             _buyButton.gameObject.SetActive(false);
             _skinManager.SelectSkin(_skinIndex);
@@ -51,5 +51,4 @@ public class SkinShopItem : MonoBehaviour
             Debug.Log("Недостаточно денег");
         }
     }
-
 }

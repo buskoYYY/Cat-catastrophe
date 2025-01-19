@@ -10,10 +10,6 @@ public class TweenEffects : MonoBehaviour
     [SerializeField] private GameObject _score;
     [SerializeField] private GameObject _endTime;
 
-    private void OnEnable()
-    {
-        //Timer.StartCountdownEffect += TweenEndTimeRiminderEffect;
-    }
     public void TweenScaleEffect()
     {
         iTween.PunchScale(_pawImage, _tweenScale.scale, _tweenScale.scaleTime);
@@ -23,11 +19,6 @@ public class TweenEffects : MonoBehaviour
     public void TweenEndTimeRiminderEffect()
     {
         iTween.PunchScale(_endTime, _tweenScaleForTimeRemineder.scale, _tweenScaleForTimeRemineder.scaleTime);
-    }
-
-    private void OnDisable()
-    {
-        //Timer.StartCountdownEffect -= TweenEndTimeRiminderEffect;
     }
 
     [Serializable]

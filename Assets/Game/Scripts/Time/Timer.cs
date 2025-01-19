@@ -83,5 +83,4 @@ public class Timer : MonoBehaviour
     {
         ExtraTimeController.AddExtraTime -= AddTime;
     }
-
 }

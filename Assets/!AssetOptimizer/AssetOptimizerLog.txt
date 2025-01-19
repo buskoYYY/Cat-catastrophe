@@ -1,0 +1,2016 @@
+Textures optimization started at 14.05.2024 20:14:03
+---------------------------------------
+Assets\!YaAssets\btn_icon_ad.png
+Assets\TextMesh Pro\Sprites\EmojiOne.png
+Assets\!YaAssets\Leaderboard\Sprites\icon_ranking.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\btn_close.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\icon_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_1.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_2.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_3.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points_player.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Ad.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_DebuggingYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_GetPlayerYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_ImageLoadYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_InfoYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_LanguageYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_LeaderboardYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_PaymentsYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_PromptYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_ReviewYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_ScriptYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_ViewingAdsYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_YandexGame.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players_frame.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_points.png
+---------------------------------------
+Textures optimization finished at 14.05.2024 20:14:10
+31 files has been optimized.
+
+
+Textures optimization started at 15.05.2024 13:21:02
+---------------------------------------
+Assets\!YaAssets\btn_icon_ad.png
+Assets\TextMesh Pro\Sprites\EmojiOne.png
+Assets\!YaAssets\Leaderboard\Sprites\icon_ranking.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\btn_close.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\icon_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_1.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_2.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_3.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points_player.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Ad.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_DebuggingYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_GetPlayerYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_ImageLoadYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_InfoYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_LanguageYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_LeaderboardYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_PaymentsYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_PromptYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_ReviewYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_ScriptYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_ViewingAdsYG.png
+Assets\YandexGame\ScriptsYG\Editor\Icons\Icon_YandexGame.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players_frame.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_points.png
+---------------------------------------
+Textures optimization finished at 15.05.2024 13:21:05
+31 files has been optimized.
+
+
+Textures optimization started at 15.05.2024 13:21:36
+---------------------------------------
+Assets\!YaAssets\Leaderboard\Sprites\icon_ranking.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\btn_close.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\icon_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_1.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_2.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_3.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players_frame.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_points.png
+---------------------------------------
+Textures optimization finished at 15.05.2024 13:21:38
+16 files has been optimized.
+
+
+Textures optimization started at 15.05.2024 13:21:55
+---------------------------------------
+Assets\!YaAssets\btn_icon_ad.png
+Assets\!YaAssets\Leaderboard\Sprites\icon_ranking.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\btn_close.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\icon_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_1.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_2.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_3.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players_frame.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_points.png
+---------------------------------------
+Textures optimization finished at 15.05.2024 13:21:56
+17 files has been optimized.
+
+
+SpriteAtlas optimization started at 15.05.2024 13:40:28
+---------------------------------------
+Assets\TestAssets\New Sprite Atlas.spriteatlasv2
+---------------------------------------
+Textures optimization finished at 15.05.2024 13:40:28
+1 files has been optimized.
+
+
+SpriteAtlas optimization started at 15.05.2024 13:40:37
+---------------------------------------
+Assets\TestAssets\New Sprite Atlas.spriteatlasv2
+---------------------------------------
+Textures optimization finished at 15.05.2024 13:40:37
+1 files has been optimized.
+
+
+SpriteAtlas optimization started at 15.05.2024 13:40:54
+---------------------------------------
+Assets\TestAssets\New Sprite Atlas.spriteatlasv2
+---------------------------------------
+Textures optimization finished at 15.05.2024 13:40:54
+1 files has been optimized.
+
+
+SpriteAtlas optimization started at 15.05.2024 13:41:02
+---------------------------------------
+Assets\TestAssets\New Sprite Atlas.spriteatlasv2
+---------------------------------------
+Textures optimization finished at 15.05.2024 13:41:02
+1 files has been optimized.
+
+
+SpriteAtlas optimization started at 15.05.2024 13:41:36
+---------------------------------------
+Assets\TestAssets\New Sprite Atlas.spriteatlasv2
+---------------------------------------
+Textures optimization finished at 15.05.2024 13:41:36
+1 files has been optimized.
+
+
+Audio optimization started at 12.01.2025 19:03:30
+---------------------------------------
+Assets\Game\Audio\262312__steffcaffrey__cat-meow1-80256.mp3
+Assets\Game\Audio\mjau3-82957.mp3
+Assets\Game\Audio\432759__xpoki__meow.wav
+Assets\Game\Audio\723247__audiocoffee__summer-happy-short-version.wav
+Assets\Game\Audio\730773__denkyschuk__for-kids-bpm-105-loop.wav
+Assets\Game\Audio\738789__audiocoffee__comedy-upbeat-loop-ver.wav
+---------------------------------------
+Audio optimization finished at 12.01.2025 19:03:38
+6 files has been optimized.
+
+
+Models optimization started at 12.01.2025 19:03:38
+---------------------------------------
+Assets\AddOns\Mg3D_Hats\ShowerCap.fbx
+Assets\AddOns\Mg3D_Hats\Sombrero.fbx
+Assets\AddOns\Mg3D_Hats\VikingHelmet.fbx
+Assets\ClayVasesPack\Models_Materials\Vase1.fbx
+Assets\ClayVasesPack\Models_Materials\Vase2.fbx
+Assets\ClayVasesPack\Models_Materials\Vase3.fbx
+Assets\ClayVasesPack\Models_Materials\Vase4.fbx
+Assets\Furniture_FREE\Meshes\air_hockey_001.fbx
+Assets\Furniture_FREE\Meshes\bathroom_item_001.fbx
+Assets\Furniture_FREE\Meshes\bed_001.fbx
+Assets\Furniture_FREE\Meshes\box_001.fbx
+Assets\Furniture_FREE\Meshes\camera_001.fbx
+Assets\Furniture_FREE\Meshes\closet_001.fbx
+Assets\Furniture_FREE\Meshes\closet_002.fbx
+Assets\Furniture_FREE\Meshes\clothes_001.fbx
+Assets\Furniture_FREE\Meshes\clothes_002.fbx
+Assets\Furniture_FREE\Meshes\coffee_machine_001.fbx
+Assets\Furniture_FREE\Meshes\coffee_table_001.fbx
+Assets\Furniture_FREE\Meshes\dish_001.fbx
+Assets\Furniture_FREE\Meshes\dish_002.fbx
+Assets\Furniture_FREE\Meshes\door_001.fbx
+Assets\Furniture_FREE\Meshes\door_frame_001.fbx
+Assets\Furniture_FREE\Meshes\dresser_001.fbx
+Assets\Furniture_FREE\Meshes\drink_001.fbx
+Assets\Furniture_FREE\Meshes\drink_002.fbx
+Assets\Furniture_FREE\Meshes\dumbbell_001.fbx
+Assets\Furniture_FREE\Meshes\dumbbell_002.fbx
+Assets\Furniture_FREE\Meshes\flower_001.fbx
+Assets\Furniture_FREE\Meshes\fridge_001.fbx
+Assets\Furniture_FREE\Meshes\ketchup_001.fbx
+Assets\Furniture_FREE\Meshes\kitchen_chair_001.fbx
+Assets\Furniture_FREE\Meshes\kitchen_sink_001.fbx
+Assets\Furniture_FREE\Meshes\kitchen_table_001.fbx
+Assets\Furniture_FREE\Meshes\lamp_001.fbx
+Assets\Furniture_FREE\Meshes\lamp_002.fbx
+Assets\Furniture_FREE\Meshes\lounge_chair_001.fbx
+Assets\Furniture_FREE\Meshes\microwave_oven_001.fbx
+Assets\Furniture_FREE\Meshes\musical_instrument_001.fbx
+Assets\Furniture_FREE\Meshes\office_table_001.fbx
+Assets\Furniture_FREE\Meshes\scratching_post_001.fbx
+Assets\Furniture_FREE\Meshes\sofa_001.fbx
+Assets\Furniture_FREE\Meshes\toy_001.fbx
+Assets\Furniture_FREE\Meshes\toy_002.fbx
+Assets\Furniture_FREE\Meshes\training_item_001.fbx
+Assets\Furniture_FREE\Meshes\training_item_002.fbx
+Assets\Furniture_FREE\Meshes\tv_wall_001.fbx
+Assets\Furniture_FREE\Meshes\washing_machine_001.fbx
+Assets\Game\Hats\CowboyHat.fbx
+Assets\Game\Hats\Crown.fbx
+Assets\Game\Hats\MagicianHat.fbx
+Assets\Game\Hats\MinerHat.fbx
+Assets\Game\Hats\Mustache.fbx
+Assets\Game\Hats\PajamaHat.fbx
+Assets\Game\Hats\PillboxHat.fbx
+Assets\Game\Hats\PoliceCap.fbx
+Assets\Game\Prefabs\Coin.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Axe_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Axe_002.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Broom_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Broom_002.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Broom_003.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Hammer_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Hammer_002.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Hammer_003.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Knife_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Knife_002.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Knife_003.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Pincers_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Pitchfork_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Pitchfork_002.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Pitchfork_003.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Rake_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Rake_002.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Rake_003.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Saw_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Saw_002.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Scythe_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Scythe_002.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Shovel_001.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Shovel_002.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Shovel_003.fbx
+Assets\Gardening_Tools_Pack_26_PBR_objects\Meshes\Sickle_001.fbx
+Assets\wheel\Mesh\wheel_01.fbx
+Assets\wheel\Mesh\wheel_02.fbx
+Assets\wheel\Mesh\wheel_03.fbx
+Assets\wheel\Mesh\wheel_04.fbx
+Assets\wheel\Mesh\wheel_05.fbx
+Assets\wheel\Mesh\wheel_06.fbx
+Assets\wheel\Mesh\wheel_07.fbx
+Assets\wheel\Mesh\wheel_08.fbx
+Assets\wheel\Mesh\wheel_09.fbx
+Assets\wheel\Mesh\wheel_10.fbx
+Assets\wheel\Mesh\wheel_11.fbx
+Assets\wheel\Mesh\wheel_12.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_flowerpot_01a_LOD0.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_flowerpot_01a_LOD1.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_flowerpot_02a_LOD0.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_flowerpot_02a_LOD1.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_flowerstand_01a_LOD0.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_flowerstand_01a_LOD1.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_flowerstand_02a_LOD0.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_flowerstand_02a_LOD1.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_wateringcan_01a_LOD0.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_wateringcan_01a_LOD1.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_wateringcan_01b_LOD0.fbx
+Assets\Gardening Supply Set\Resources\Furniture\Furniture_wateringcan_01b_LOD1.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Ground\Ground.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Rocks\Rock.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Rocks\Rock_002.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Rocks\Rock_004.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Rocks\Rock_005.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Rocks\Rock_013.fbx
+Assets\JMO Assets\Cartoon FX (legacy)\Mesh\CFX_Mesh_Circular.FBX
+Assets\JMO Assets\Cartoon FX (legacy)\Mesh\CFX_Mesh_Circular2.FBX
+Assets\JMO Assets\Cartoon FX (legacy)\Mesh\CFX_Mesh_CircularAngle.FBX
+Assets\Kabungus\HouseholdItems\Models\AmmoCase.fbx
+Assets\Kabungus\HouseholdItems\Models\AmmoCrate.fbx
+Assets\Kabungus\HouseholdItems\Models\Bandages.fbx
+Assets\Kabungus\HouseholdItems\Models\Bat.fbx
+Assets\Kabungus\HouseholdItems\Models\BeerMug.fbx
+Assets\Kabungus\HouseholdItems\Models\Binoculars.fbx
+Assets\Kabungus\HouseholdItems\Models\BookBlue.fbx
+Assets\Kabungus\HouseholdItems\Models\BookOrange.fbx
+Assets\Kabungus\HouseholdItems\Models\BookRed.fbx
+Assets\Kabungus\HouseholdItems\Models\Bookshelf.fbx
+Assets\Kabungus\HouseholdItems\Models\Bottle1.fbx
+Assets\Kabungus\HouseholdItems\Models\Bottle1Black.fbx
+Assets\Kabungus\HouseholdItems\Models\Bottle2.fbx
+Assets\Kabungus\HouseholdItems\Models\Bottle2Purple.fbx
+Assets\Kabungus\HouseholdItems\Models\Bottle3.fbx
+Assets\Kabungus\HouseholdItems\Models\Bottle3Blue.fbx
+Assets\Kabungus\HouseholdItems\Models\Bottle3Green.fbx
+Assets\Kabungus\HouseholdItems\Models\Bowl.fbx
+Assets\Kabungus\HouseholdItems\Models\Bowl_001.fbx
+Assets\Kabungus\HouseholdItems\Models\Briefcase.fbx
+Assets\Kabungus\HouseholdItems\Models\BriefcaseGrey.fbx
+Assets\Kabungus\HouseholdItems\Models\ButcherKnife.fbx
+Assets\Kabungus\HouseholdItems\Models\ButcherKnifeBrown.fbx
+Assets\Kabungus\HouseholdItems\Models\Camera.fbx
+Assets\Kabungus\HouseholdItems\Models\Chair.fbx
+Assets\Kabungus\HouseholdItems\Models\Crowbar.fbx
+Assets\Kabungus\HouseholdItems\Models\Cup.fbx
+Assets\Kabungus\HouseholdItems\Models\CupBrown.fbx
+Assets\Kabungus\HouseholdItems\Models\CupGreen.fbx
+Assets\Kabungus\HouseholdItems\Models\CupRed.fbx
+Assets\Kabungus\HouseholdItems\Models\Desk.fbx
+Assets\Kabungus\HouseholdItems\Models\Dumbell1.fbx
+Assets\Kabungus\HouseholdItems\Models\Dumbell2.fbx
+Assets\Kabungus\HouseholdItems\Models\FastCoffeeCupGreen.fbx
+Assets\Kabungus\HouseholdItems\Models\FastCoffeeCupRed.fbx
+Assets\Kabungus\HouseholdItems\Models\FastFoodCupBlue.fbx
+Assets\Kabungus\HouseholdItems\Models\FastFoodCupGreen.fbx
+Assets\Kabungus\HouseholdItems\Models\FastFoodCupRed.fbx
+Assets\Kabungus\HouseholdItems\Models\Flashlight.fbx
+Assets\Kabungus\HouseholdItems\Models\Fork.fbx
+Assets\Kabungus\HouseholdItems\Models\GasCan.fbx
+Assets\Kabungus\HouseholdItems\Models\Goblet.fbx
+Assets\Kabungus\HouseholdItems\Models\Hammer.fbx
+Assets\Kabungus\HouseholdItems\Models\Hammer2.fbx
+Assets\Kabungus\HouseholdItems\Models\Hatchet.fbx
+Assets\Kabungus\HouseholdItems\Models\Hatchet2.fbx
+Assets\Kabungus\HouseholdItems\Models\HealthKit.fbx
+Assets\Kabungus\HouseholdItems\Models\KitchenKnife.fbx
+Assets\Kabungus\HouseholdItems\Models\KitchenKnifeBrown.fbx
+Assets\Kabungus\HouseholdItems\Models\MedBook.fbx
+Assets\Kabungus\HouseholdItems\Models\Medkit.fbx
+Assets\Kabungus\HouseholdItems\Models\MilkCartonBlue.fbx
+Assets\Kabungus\HouseholdItems\Models\MilkCartonRed.fbx
+Assets\Kabungus\HouseholdItems\Models\Money.fbx
+Assets\Kabungus\HouseholdItems\Models\Mug.fbx
+Assets\Kabungus\HouseholdItems\Models\Mug_001.fbx
+Assets\Kabungus\HouseholdItems\Models\Pan.fbx
+Assets\Kabungus\HouseholdItems\Models\Pan2.fbx
+Assets\Kabungus\HouseholdItems\Models\Pencil.fbx
+Assets\Kabungus\HouseholdItems\Models\PillBottle.fbx
+Assets\Kabungus\HouseholdItems\Models\Plate.fbx
+Assets\Kabungus\HouseholdItems\Models\Plate_001.fbx
+Assets\Kabungus\HouseholdItems\Models\Plunger.fbx
+Assets\Kabungus\HouseholdItems\Models\Pot.fbx
+Assets\Kabungus\HouseholdItems\Models\Saw.fbx
+Assets\Kabungus\HouseholdItems\Models\ScrewDriverBlue.fbx
+Assets\Kabungus\HouseholdItems\Models\ScrewDriverRed.fbx
+Assets\Kabungus\HouseholdItems\Models\Shovel.fbx
+Assets\Kabungus\HouseholdItems\Models\SledgeHammer.fbx
+Assets\Kabungus\HouseholdItems\Models\SledgeHammer2.fbx
+Assets\Kabungus\HouseholdItems\Models\SmartPhoneBlue.fbx
+Assets\Kabungus\HouseholdItems\Models\SmartPhoneGreen.fbx
+Assets\Kabungus\HouseholdItems\Models\SmartPhoneRed.fbx
+Assets\Kabungus\HouseholdItems\Models\SmartPhoneWhite.fbx
+Assets\Kabungus\HouseholdItems\Models\Spatula.fbx
+Assets\Kabungus\HouseholdItems\Models\Spoon.fbx
+Assets\Kabungus\HouseholdItems\Models\Syringe.fbx
+Assets\Kabungus\HouseholdItems\Models\Table.fbx
+Assets\Kabungus\HouseholdItems\Models\TapeMeasurer.fbx
+Assets\Kabungus\HouseholdItems\Models\ToolboxBlue.fbx
+Assets\Kabungus\HouseholdItems\Models\ToolboxRed.fbx
+Assets\Kabungus\HouseholdItems\Models\ToothbrushBlue.fbx
+Assets\Kabungus\HouseholdItems\Models\ToothbrushGreen.fbx
+Assets\Kabungus\HouseholdItems\Models\ToothbrushRed.fbx
+Assets\Kabungus\HouseholdItems\Models\TV.fbx
+Assets\Kabungus\HouseholdItems\Models\TVStand.fbx
+Assets\Kabungus\HouseholdItems\Models\Wrench.fbx
+Assets\Ladymito\Free_cat\Models\cat.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)BathroomSink.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)BedsideLight.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)BedsideTable.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)CeilingLight.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Chair1.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Chair2.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)CoatHanger.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)CoffeTable.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)CoffeTable_smallPlant.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Container1.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Container2.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Container3.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Container4.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)CornerLight.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)CornerSofa.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)CornerSofa_pillowT.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Desk.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)DeskLight.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)DiningChair.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Door.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)DoubleBed.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Drawer1.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Drawer2.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Drawer3.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Dresser.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Fridge.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)KitchenIsland.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)KitchenSink.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Lamp.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)LaunchTable.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)LaunchTable_vase1.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)LaunchTable_vase2.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)LaunchTable_vase3.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)LaunchTable_vase4.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)MediaConsole.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Minifridge.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Mirror1.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Mirror2.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Mirror3.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)MirrorLight.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Rack.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)RoomLight.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Shelf1.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)ShoeRack.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)ShowerFace.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)ShowerTemperature.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)SingleBed.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)SmokeVent.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)SoapDispenser.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Sofa.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Sofa_pillowT.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Storage1.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Storage2.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Stove.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Toilet.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)Wardrobe.fbx
+Assets\nappin\House Props Softpack\Models\(Msh)WaterGarden.fbx
+Assets\SandoraKa\Stylized Potted Plants\Meshes\Bench.fbx
+Assets\SandoraKa\Stylized Potted Plants\Meshes\Cactus.fbx
+Assets\SandoraKa\Stylized Potted Plants\Meshes\Coleus.fbx
+Assets\SandoraKa\Stylized Potted Plants\Meshes\Cucumber.fbx
+Assets\SandoraKa\Stylized Potted Plants\Meshes\Monstera.fbx
+Assets\SandoraKa\Stylized Potted Plants\Meshes\Pot.fbx
+Assets\SandoraKa\Stylized Potted Plants\Meshes\PotStack.fbx
+Assets\SandoraKa\Stylized Potted Plants\Meshes\Tomato.fbx
+Assets\Understone\Free Bike Pack\Models\BMXBikeE.fbx
+Assets\EasyStart Third Person Controller\Prefabs\Source\Models\FuturisticSoldier.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Grass\Grass_010.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Grass\Grass_012.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Grass\Grass_016.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\GrondFlower\GroundFlower.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\GrondFlower\GroundFlower_001.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Mushrooms\Mushroom.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Mushrooms\Mushroom_001.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Mushrooms\Mushroom_002.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Mushrooms\Mushroom_003 1.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Plants\Plant.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Plants\Plant_003.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Plants\Plant_004.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Plants\Plant_005.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Plants\Plant_006.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Foilage\Plants\Plant_007.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Ash\Ash.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Ash\AshClutter_002.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Ash\AshDead.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Ash\AshStump.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Birch\Birch.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Birch\BirchClutter_002 1.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Birch\BirchDead_009.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Birch\BirchStump.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Bush\BushClutter.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Bush\BushDead.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Bush\BushStump.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Bush\Bush_001.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Oak\Oak.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Oak\OakClutter.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Oak\OakDead_006.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Oak\OakStump_003.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Poplar\Poplar.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Poplar\PoplarClutter_001.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Poplar\PoplarDead_001.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Poplar\PoplarStump.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Sapling\Sapling.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Sapling\Sapling_003.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Spruce\SpruceClutter_009.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Spruce\SpruceDead.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Spruce\SpruceStump_003.fbx
+Assets\Happy Little Trees - Free nature pack by Nebula\Meshes\Trees\Spruce\Spruce_008.fbx
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\LawnMower.fbx
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\StringTrimmer.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr electric_arc_circle.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr electric_barrier.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr mesh disk.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr mesh donut.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr mesh foam.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr mesh leave.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr mesh ring.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr mesh star4.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr mesh star6.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr mesh star8.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr mesh sword_slashes.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr particle_electric_arc.fbx
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Meshes\cfxr particle_electric_arc_2.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\SceneComplete.fbx
+Assets\diningRoom\diningRoom\models\chair\chairBeige\chairBeige.fbx
+Assets\diningRoom\diningRoom\models\chair\fourHorizontalbackrestChair\fourHorizontalbackrestChair.fbx
+Assets\diningRoom\diningRoom\models\chair\fourVerticalBackrestChair\fourVerticalBackrestChair.fbx
+Assets\diningRoom\diningRoom\models\chair\redChair\curveBackChair.fbx
+Assets\diningRoom\diningRoom\models\chair\simpleChair\simpleChair.fbx
+Assets\diningRoom\diningRoom\models\chair\twoHorizontalbackrestChair\twoHorizontalbackrestChair.fbx
+Assets\diningRoom\diningRoom\models\chair\vBackRestChair\vBackrestChair.fbx
+Assets\diningRoom\diningRoom\models\chair\verticalBackrestChair\verticalBackrestChair.fbx
+Assets\diningRoom\diningRoom\models\decor\bottles\bottles.fbx
+Assets\diningRoom\diningRoom\models\decor\brunch\vases.fbx
+Assets\diningRoom\diningRoom\models\decor\candle\candle.fbx
+Assets\diningRoom\diningRoom\models\decor\candlestick\candlestick.fbx
+Assets\diningRoom\diningRoom\models\decor\Centerpiece\Centerpiece.fbx
+Assets\diningRoom\diningRoom\models\decor\CenterpiecePlant\CenterpiecePlant.fbx
+Assets\diningRoom\diningRoom\models\decor\goldenSphere\goldeSphere.fbx
+Assets\diningRoom\diningRoom\models\decor\napkinRing\tableware.fbx
+Assets\diningRoom\diningRoom\models\decor\platter\platter.fbx
+Assets\diningRoom\diningRoom\models\decor\pot\pot.fbx
+Assets\diningRoom\diningRoom\models\decor\saltShaker\saltShaker.fbx
+Assets\diningRoom\diningRoom\models\decor\tableware\tableware.fbx
+Assets\diningRoom\diningRoom\models\decor\vases\vases.fbx
+Assets\diningRoom\diningRoom\models\lamps\coneLamps\coneLamps.fbx
+Assets\diningRoom\diningRoom\models\lamps\cylinderLamp\cylinderLamps.fbx
+Assets\diningRoom\diningRoom\models\lamps\wireframeLamps\wireframeLamps.fbx
+Assets\diningRoom\diningRoom\models\plants\bambooPot\bambooPot.fbx
+Assets\diningRoom\diningRoom\models\plants\plantPot\plantPot.fbx
+Assets\diningRoom\diningRoom\models\plants\redTree\redTree.fbx
+Assets\diningRoom\diningRoom\models\tables\brownWoodTable\brownWoodTable.fbx
+Assets\diningRoom\diningRoom\models\tables\circleTable\circleTable.fbx
+Assets\diningRoom\diningRoom\models\tables\cylinderTable\cylinderTable.fbx
+Assets\diningRoom\diningRoom\models\tables\joinedLegsTable\joinedLegsTable.fbx
+Assets\diningRoom\diningRoom\models\tables\RectangleTable\RectangleTable.fbx
+Assets\diningRoom\diningRoom\models\tables\squareLegsTable\squareLegsTable.fbx
+Assets\diningRoom\diningRoom\models\tables\squareTable\squareTable.fbx
+Assets\diningRoom\diningRoom\models\tables\twoRectangleLegs\twoRectangleLegs.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Armoire.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ArmoireChambre.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Assiette.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Assiettes.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Bibliotheque.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\BibliothequeSalon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\BoiteRangementEtagere.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\BrosseToilettes.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\BureauMural.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\BureauPC.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Cadre.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\CadreLong.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Canap2.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Canape.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\CanapeCartoon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\CanapeCoussins.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\CartonRangement.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\CartonRangementAvecLivres.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Chaise.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Chaise2.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ChaiseBureau.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ChaiseComptoir.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Chevet.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Clavier.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Commode.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Commode2.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Commode3.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\CommodeChambre.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ConsoleJeu.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ConsoleSwitchable.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ConsoleXboite.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Coussin.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Crayon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\CrochetMur.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Douche.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\EcranPlat.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Etagere.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\EtagereCasesCartoon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\EtagereCoin.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\EtagereEscalier.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Evier.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\FauteuilCartoon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\FourGaziniere.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Frigo.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\GrandTapis.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\GrillePain.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Hote.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\JouetAvion.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\JouetTour.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\JouetTrain.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Lampe.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Lampe2.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\LampePlafond.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Laptop.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Lavabo.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\LecteurDVD.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Lit.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Lit1p.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Lit1pAvecDrap.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Lit1place.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\LitComplet.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Livre.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\MacCartoon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\MaubleBureauRangement.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Meuble8cases.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\MeubleCuisineCartoon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\MeubleCuisineHauteur.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\MeubleCuisineHauteurTriple.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\MeubleTvSalon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\MicroOndes.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\MorceauPlanTravail.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Mug.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Niche.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\PapierToilette.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\PetitMeubleTv.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\PlanDeTravailEvier.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\PorteManteauMur.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\PorteServiettes.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Pot.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\PotBouchon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\PotPlante.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\PotPlanteVerte.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Poubelle.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Radiateur.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\RangementTiroirCase.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\RideauFenetre.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ServietteMains.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\SourisPC.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Table.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Table2.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\TableBasse.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\TableBasse2.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\TableBasseRonde.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\TableRonde.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Tapis.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\TapisRond.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\TelecommandeTv.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ToiletHP.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ToiletLLP.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\ToiletLP.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Tonneau.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\TV.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\TVCartoon.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\VaseDesign.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\VaseFleur.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\VasePetit.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Verre.fbx
+Assets\KitModelesInterieur\KitModelesInterieur\Assets\MobilierInterieur\Modeles\Verre2.fbx
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Fence\Fence(1side).FBX
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Panel\Panel.FBX
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Wall & Window\Wall.FBX
+---------------------------------------
+Models optimization finished at 12.01.2025 19:06:10
+473 files has been optimized.
+
+
+Textures optimization started at 12.01.2025 19:06:11
+---------------------------------------
+(750, 1017) | (752, 1020) Assets\Game\Texture\571131_original.jpg
+(610, 619) | (612, 620) Assets\Game\Texture\593bfb0f8318915c924cb4b1.jpg
+(1920, 1234) | (1920, 1236) Assets\Game\Texture\BacKGround.jpg
+Assets\Game\Texture\Coin2_BaseColor.jpg
+Assets\Game\Texture\cute-cat-riding-bicycle-cartoon-600nw-2457850631.jpg
+(3000, 2000) | (3000, 2004) Assets\Game\Texture\ShopBackground.jpg
+(6001, 4001) | (6001, 4008) Assets\Game\Texture\sl_011023_55240_19.jpg
+(1280, 853) | (1280, 856) Assets\Game\Texture\1-st room\Canape.jpg
+Assets\Game\Texture\1-st room\Lampe.jpg
+Assets\Game\Texture\1-st room\Plane.jpg
+Assets\Game\Texture\1-st room\Plane3.jpg
+Assets\Game\Texture\1-st room\TV.jpg
+(1280, 853) | (1280, 856) Assets\Game\Texture\1-st room\TVRemote.jpg
+Assets\Game\Texture\1-st room\TVStand.jpg
+(853, 1280) | (856, 1280) Assets\Game\Texture\1-st room\Vase.jpg
+(3000, 2000) | (3000, 2004) Assets\Game\Texture\2-nd room\Floor.jpg
+Assets\Game\Texture\2-nd room\Vase.jpg
+(6016, 4016) | (6016, 4018) Assets\Game\Texture\2-nd room\Wall1.jpg
+Assets\Game\Texture\2-nd room\Wall2.jpg
+Assets\Game\Texture\2-nd room\Wall3.jpg
+(580, 386) | (580, 388) Assets\Game\Texture\4-th room\cute-cat-cartoon-seamless-pattern-Graphics-4585045-1-1-580x386.jpg
+Assets\Game\Texture\4-th room\HD-wallpaper-texture-pattern-green-yellow-paper-cat-blue-pisica.jpg
+Assets\Game\Texture\4-th room\images.jpg
+Assets\Game\Texture\4-th room\vector-cat-and-dog-outline-seamless-pattern-for-background-or-wrapping-paper.jpg
+Assets\Game\Texture\proctextures\texture29.jpg
+Assets\Game\Texture\proctextures\texture30.jpg
+Assets\Game\Texture\proctextures\texture31.jpg
+Assets\Game\Texture\proctextures\texture32.jpg
+(157, 157) | (160, 160) Assets\Game\Texture\proctextures\texture33.jpg
+(157, 158) | (160, 160) Assets\Game\Texture\proctextures\texture34.jpg
+(157, 158) | (160, 160) Assets\Game\Texture\proctextures\texture35.jpg
+(157, 157) | (160, 160) Assets\Game\Texture\proctextures\texture36.jpg
+Assets\Game\Texture\proctextures\texture37.jpg
+(157, 157) | (160, 160) Assets\Game\Texture\proctextures\texture40.jpg
+Assets\Game\Texture\2-nd room\proctextures\texture29.jpg
+Assets\Game\Texture\2-nd room\proctextures\texture30.jpg
+Assets\Game\Texture\2-nd room\proctextures\texture31.jpg
+Assets\Game\Texture\2-nd room\proctextures\texture32.jpg
+(157, 157) | (160, 160) Assets\Game\Texture\2-nd room\proctextures\texture33.jpg
+(157, 158) | (160, 160) Assets\Game\Texture\2-nd room\proctextures\texture34.jpg
+(157, 158) | (160, 160) Assets\Game\Texture\2-nd room\proctextures\texture35.jpg
+(157, 157) | (160, 160) Assets\Game\Texture\2-nd room\proctextures\texture36.jpg
+Assets\Game\Texture\2-nd room\proctextures\texture37.jpg
+(157, 157) | (160, 160) Assets\Game\Texture\2-nd room\proctextures\texture40.jpg
+Assets\!YaAssets\btn_icon_ad.png
+(2928, 1754) | (2928, 1756) Assets\2D Casual UI\Sprite\GUI.png
+Assets\Furniture_FREE\Textures\Texture.png
+(466, 535) | (468, 536) Assets\Game\Skins\Cilinder-removebg-preview.png
+(466, 535) | (468, 536) Assets\Game\Skins\Cowboy-removebg-preview.png
+(466, 535) | (468, 536) Assets\Game\Skins\Crown-removebg-preview.png
+(466, 535) | (468, 536) Assets\Game\Skins\Empty-removebg-preview.png
+(466, 535) | (468, 536) Assets\Game\Skins\Miner-removebg-preview.png
+(466, 535) | (468, 536) Assets\Game\Skins\PiilBox-removebg-preview.png
+(466, 535) | (468, 536) Assets\Game\Skins\Pijame-removebg-preview.png
+(466, 535) | (468, 536) Assets\Game\Skins\POlice-removebg-preview.png
+Assets\Game\Texture\CatBlack.png
+Assets\Game\Texture\Coin.png
+(423, 326) | (424, 328) Assets\Game\Texture\Icon.png
+Assets\Game\Texture\Paw.png
+Assets\Game\Texture\Wood 24 - 128x128.png
+Assets\JMO Assets\Welcome Screen\CFXR_WelcomeScreen_Background.png
+Assets\Simple Buttons\Big Buttons\BigBlue.png
+Assets\Simple Buttons\Big Buttons\BigGray.png
+Assets\Simple Buttons\Big Buttons\BigGreen.png
+Assets\Simple Buttons\Big Buttons\BigLigthBlue.png
+Assets\Simple Buttons\Big Buttons\BigPink.png
+Assets\Simple Buttons\Big Buttons\BigPurple.png
+Assets\Simple Buttons\Big Buttons\BigTurquoise.png
+Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 1 (Rounded Purple)\ButtonsStyle1_26.png
+Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 10 (Square Light Blue)\ButtonsStyle10_26.png
+Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 11 (Rounded Blue)\ButtonsStyle11_26.png
+Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 12 (Square Blue)\ButtonsStyle12_26.png
+Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 13 (Rounded Gray)\ButtonsStyle13_26.png
+Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 14 (Square Gray)\ButtonsStyle14_26.png
+Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 2 (Square Purple)\ButtonsStyle2_26.png
+Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 3 (Rounded Pink)\ButtonsStyle3_26.png
+Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 4 (Square Pink)\ButtonsStyle4_26.png
+Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 5 (Rounded Green)\ButtonsStyle5_26.png
+Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 6 (Square Green)\ButtonsStyle6_26.png
+Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 7 (Rounded Turquoise)\ButtonsStyle7_26.png
+Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 8 (Square Turquoise)\ButtonsStyle8_26.png
+Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_01.png
+(269, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_02.png
+(276, 274) | (276, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_03.png
+(263, 274) | (264, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_04.png
+(270, 274) | (272, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_05.png
+(278, 274) | (280, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_06.png
+(269, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_07.png
+(276, 297) | (276, 300) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_08.png
+(263, 297) | (264, 300) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_09.png
+(270, 297) | (272, 300) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_10.png
+(278, 297) | (280, 300) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_11.png
+(269, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_12.png
+(276, 263) | (276, 264) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_13.png
+(263, 263) | (264, 264) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_14.png
+(270, 263) | (272, 264) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_15.png
+(278, 263) | (280, 264) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_16.png
+(269, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_17.png
+(276, 273) | (276, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_18.png
+(263, 273) | (264, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_19.png
+(270, 273) | (272, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_20.png
+(278, 273) | (280, 276) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_21.png
+(269, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_22.png
+(276, 277) | (276, 280) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_23.png
+(263, 277) | (264, 280) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_24.png
+(270, 277) | (272, 280) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_25.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Buttons Style 9 (Rounded Light Blue)\ButtonsStyle9_26.png
+(278, 277) | (280, 280) Assets\Simple Buttons\Icons\Icon_26.png
+Assets\TextMesh Pro\Sprites\EmojiOne.png
+Assets\TMI - Living Room\Textures\3x3 Shelf.png
+Assets\TMI - Living Room\Textures\armchair.png
+Assets\TMI - Living Room\Textures\bookA.png
+Assets\TMI - Living Room\Textures\bookB.png
+Assets\TMI - Living Room\Textures\circle rug.png
+Assets\TMI - Living Room\Textures\decoration.png
+Assets\TMI - Living Room\Textures\frame.png
+Assets\TMI - Living Room\Textures\mug.png
+Assets\TMI - Living Room\Textures\plant.png
+Assets\TMI - Living Room\Textures\rug.png
+Assets\TMI - Living Room\Textures\Shelf.png
+Assets\TMI - Living Room\Textures\short table.png
+Assets\TMI - Living Room\Textures\single shelf.png
+Assets\TMI - Living Room\Textures\sofa.png
+Assets\TMI - Living Room\Textures\tea cup.png
+Assets\TMI - Living Room\Textures\TV 2.png
+Assets\TMI - Living Room\Textures\TV.png
+Assets\wheel\Material\AtlasTexture.png
+Assets\!YaAssets\Leaderboard\Sprites\icon_ranking.png
+Assets\Ciconia Studio\_Shared Files\UI\Button_Arrow-active.png
+Assets\Ciconia Studio\_Shared Files\UI\Button_Arrow-hover.png
+Assets\Ciconia Studio\_Shared Files\UI\Button_Arrow.png
+Assets\Ciconia Studio\_Shared Files\UI\Gradient.png
+Assets\Game\Texture\1-st room\Painting.png
+(1280, 1235) | (1280, 1236) Assets\Game\Texture\1-st room\Plane1.png
+(1280, 919) | (1280, 920) Assets\Game\Texture\1-st room\Plane4.png
+Assets\Game\Texture\2-nd room\ChairPart1.png
+Assets\Game\Texture\2-nd room\ChairPart2.png
+Assets\Game\Texture\2-nd room\Wood 20 - 128x128.png
+Assets\Game\Texture\2-nd room\Wood 9 - 128x128.png
+Assets\Game\Texture\3-rd room 1\Floor.png
+Assets\Game\Texture\3-rd room 1\ShowerCabinPart2.png
+Assets\Game\Texture\3-rd room 1\TablePart1.png
+Assets\Game\Texture\3-rd room 1\texture5.png
+Assets\Game\Texture\3-rd room 1\Texture_128x128_1.png
+Assets\Game\Texture\3-rd room 1\Texture_128x128_18.png
+Assets\Game\Texture\3-rd room 1\Texture_128x128_19.png
+Assets\Game\Texture\3-rd room 1\Texture_128x128_24.png
+Assets\Game\Texture\3-rd room 1\Texture_128x128_27.png
+Assets\Game\Texture\3-rd room 1\Texture_128x128_38.png
+Assets\Game\Texture\3-rd room 1\Texture_128x128_46.png
+Assets\Game\Texture\3-rd room 1\Texture_128x128_47.png
+Assets\Game\Texture\3-rd room 1\Texture_128x128_48.png
+Assets\Game\Texture\3-rd room 1\Wall1.png
+Assets\Game\Texture\3-rd room 1\Wall2.png
+Assets\Game\Texture\3-rd room 1\Wall3.png
+Assets\Game\Texture\4-th room\CatBlack.png
+Assets\Game\Texture\4-th room\Texture_128x128_12.png
+Assets\Game\Texture\4-th room\Texture_128x128_20.png
+Assets\Game\Texture\4-th room\Texture_128x128_36.png
+Assets\Game\Texture\4-th room\Tile 13 - 128x128.png
+Assets\Game\Texture\4-th room\Tile 15 - 128x128.png
+Assets\Game\Texture\4-th room\Tile 21 - 128x128.png
+Assets\Game\Texture\4-th room\Wood 1 - 128x128.png
+Assets\Game\Texture\4-th room\Wood 11 - 128x128.png
+Assets\Game\Texture\4-th room\Wood 12 - 128x128.png
+Assets\Game\Texture\4-th room\Wood 18 - 128x128.png
+Assets\Game\Texture\4-th room\Wood 23 - 128x128.png
+Assets\Game\Texture\5-th room\Brick 1 - 128x128.png
+Assets\Game\Texture\5-th room\Brick 24 - 128x128.png
+Assets\Game\Texture\5-th room\Brick 6 - 128x128.png
+Assets\Game\Texture\5-th room\Brick 7 - 128x128.png
+Assets\Game\Texture\5-th room\BrickOv.png
+Assets\Game\Texture\5-th room\Bricks.png
+Assets\Game\Texture\5-th room\Coal.png
+Assets\Game\Texture\5-th room\Gravel.png
+Assets\Game\Texture\5-th room\Ice.png
+(238, 212) | (240, 212) Assets\Game\Texture\5-th room\images.png
+Assets\Game\Texture\proctextures\texture1.png
+Assets\Game\Texture\proctextures\texture10.png
+Assets\Game\Texture\proctextures\texture11.png
+Assets\Game\Texture\proctextures\texture11b.png
+Assets\Game\Texture\proctextures\texture12.png
+Assets\Game\Texture\proctextures\texture13.png
+Assets\Game\Texture\proctextures\texture13b.png
+Assets\Game\Texture\proctextures\texture13c.png
+Assets\Game\Texture\proctextures\texture14.png
+Assets\Game\Texture\proctextures\texture14b.png
+Assets\Game\Texture\proctextures\texture15.png
+Assets\Game\Texture\proctextures\texture15b.png
+Assets\Game\Texture\proctextures\texture15c.png
+Assets\Game\Texture\proctextures\texture16.png
+Assets\Game\Texture\proctextures\texture16b.png
+Assets\Game\Texture\proctextures\texture16c.png
+Assets\Game\Texture\proctextures\texture17.png
+Assets\Game\Texture\proctextures\texture17b.png
+Assets\Game\Texture\proctextures\texture17c.png
+Assets\Game\Texture\proctextures\texture18.png
+Assets\Game\Texture\proctextures\texture18b.png
+Assets\Game\Texture\proctextures\texture19.png
+Assets\Game\Texture\proctextures\texture1b.png
+Assets\Game\Texture\proctextures\texture1c.png
+Assets\Game\Texture\proctextures\texture2.png
+Assets\Game\Texture\proctextures\texture20.png
+Assets\Game\Texture\proctextures\texture21.png
+Assets\Game\Texture\proctextures\texture21b.png
+Assets\Game\Texture\proctextures\texture21c.png
+Assets\Game\Texture\proctextures\texture22.png
+Assets\Game\Texture\proctextures\texture23.png
+Assets\Game\Texture\proctextures\texture24.png
+Assets\Game\Texture\proctextures\texture24b.png
+Assets\Game\Texture\proctextures\texture24c.png
+Assets\Game\Texture\proctextures\texture25 1.png
+Assets\Game\Texture\proctextures\texture25.png
+Assets\Game\Texture\proctextures\texture26.png
+Assets\Game\Texture\proctextures\texture26b.png
+Assets\Game\Texture\proctextures\texture26c.png
+Assets\Game\Texture\proctextures\texture27.png
+Assets\Game\Texture\proctextures\texture28.png
+Assets\Game\Texture\proctextures\texture28b.png
+Assets\Game\Texture\proctextures\texture28c.png
+Assets\Game\Texture\proctextures\texture3.png
+Assets\Game\Texture\proctextures\texture38.png
+Assets\Game\Texture\proctextures\texture39.png
+Assets\Game\Texture\proctextures\texture4.png
+Assets\Game\Texture\proctextures\texture5 1.png
+Assets\Game\Texture\proctextures\texture5.png
+Assets\Game\Texture\proctextures\texture6.png
+Assets\Game\Texture\proctextures\texture6b.png
+Assets\Game\Texture\proctextures\texture7.png
+Assets\Game\Texture\proctextures\texture8.png
+Assets\Game\Texture\proctextures\texture9.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Backward.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Cancel.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Dollar.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\DownArrow.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Email.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Facebook.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Forward.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Gamecenter.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\GooglePlus.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Home.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Info.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\LeftArrow.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\LeftArrow2.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Menu.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Minus.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Pause.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Play.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Plus.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\QuestionMark.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Restart.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\RightArrow.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\RightArrow2.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Settings.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Shop.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\SoundOFF.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\SoundON.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Star.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Trophy.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\Twitter.png
+(247, 256) | (248, 256) Assets\Game GUI Vol1\LazyDay\PNG\UpArrow.png
+Assets\Game GUI Vol1\LazyDay\Sprites\LazyDayBG-resized.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Backward.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Cancel.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Dollar.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\DownArrow.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Email.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Facebook.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Forward.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\GameCenter.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\GooglePlus.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Home.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Info.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\LeftArrow.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\LeftArrow2.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Menu.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Minus.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Pause.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Play.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Plus.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\QuestionMark.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Restart.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\RightArrow.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\RightArrow2.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Setting.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Shop.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\SoundOFF.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\SoundON.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Star.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Trophy.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Twitter.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\UpArrow.png
+(262, 267) | (264, 268) Assets\Game GUI Vol1\Playful\PNG\Yes.png
+Assets\Game GUI Vol1\Playful\Sprites\PlayfulBG-resized.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Backward.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Cancel.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Dollar.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\DownArrow.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Email.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Facebook.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Forward.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Gamecenter.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\GooglePlus.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Home.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Info.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\LeftArrow.png
+(267, 274) | (268, 276) Assets\Game GUI Vol1\PurpleRock\PNG\LeftArrow2.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Menu.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Minus.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Pause.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Play.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Plus.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\QuestionMark.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Restart.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\RightArrow.png
+(268, 275) | (268, 276) Assets\Game GUI Vol1\PurpleRock\PNG\RightArrow2.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Settings.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Shop.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\SoundOFF.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\SoundON.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Star.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Trophy.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Twitter.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\UpArrow.png
+(278, 286) | (280, 288) Assets\Game GUI Vol1\PurpleRock\PNG\Yes.png
+(600, 463) | (600, 464) Assets\Game GUI Vol1\PurpleRock\Sprites\PurpleRockBG-resized.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Backward.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Cancel.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Dollar.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\DownArrow.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Email.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Facebook.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Forward.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\GameCenter.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\GooglePlus.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Home.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Info.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\LeftArrow.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\LeftArrow2.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Menu.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Minus.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Pause.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Play.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Plus.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\QuestionMark.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Restart.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\RightArrow.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\RightArrow2.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Settings.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Shop.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\SoundOFF.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\SoundON.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Star.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Trophy.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Twitter.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\UpArrow.png
+Assets\Game GUI Vol1\WoodenBlocks\PNG\Yes.png
+Assets\Game GUI Vol1\WoodenBlocks\Sprites\WoodenBG-resized.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\FlowerBlue.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\FlowerRed.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\FlowerWhite.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\FlowerYellow.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\Grass.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\GrassYellow.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\MushroomBrown.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\MushroomRed.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\MushroomYellow.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\Plants.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Plants\PlantsSnow.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Rocks\Rocks.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Rocks\RocksDark.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\Ash.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\AshSnow.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\AshYellow.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\Birch.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\BirchSnow.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\BirchYellow.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\Bush.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\BushOrange.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\BushWinter.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\Oak.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\OakBrown.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\OakWinter.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\Poplar.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\PoplarOrange.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\PoplarSnow.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\Spruce.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\SpruceNeedles.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\SpruceNeedlesWinter.png
+Assets\Happy Little Trees - Free nature pack by Nebula\Textures\Trees\SpruceWinter.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Bat.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Diamond Outline.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Diamond.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_FadedRay.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Glow.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_GlowSoft.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Heart.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_HeartBrokenSlice.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_HeartBroken_2Frames.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_HeartOutline.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_ShinyStar.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_SkullStretch.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Smiley Happy Outline.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Smiley Happy.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Star Outline.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Star.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_WWInvSmoke ABP.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_WWInvSmoke2 AB.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_AuraRays.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_AuraRunic.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_CircleSoft.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_FireBulk.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_FireSparkle.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_GlowDot.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_GlowSpike.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_GlowStar.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_HollowCircle.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_RayStraight.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_Skull.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_SmallRay.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_SmokePuff.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_Anim_WiggleLine.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_AuraBubble.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_BubbleSubtle A8.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_Circle.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_FireBulk AB.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_FireSoft RGB.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_Foam A8.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_GroundDebris AB.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_PaintHit.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_PowHit.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_SmokePuff AB.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX4_T_SparksHit.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_ElectricSparkle.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Anim4_Bubble.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Anim4_RoundedLines.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Anim4_Triangle1.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Anim4_Triangle3.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Anim7_Electricity.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Anim8_Triangle2.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Bolt.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Bubble.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Foam.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Ray.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_RayRounded.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Ripple.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Skull.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_SpacedLine.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_SpacedSpike.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Splash_4Frames.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Star Add.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Tornado.png
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_WhiteCircleSmall.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\CFXR Demo Ground.png
+Assets\Kabungus\HouseholdItems\Textures\Palette2.png
+Assets\Ladymito\Free_cat\Textures\cat_diffuse.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientBeige.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientBlack.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientBlue.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientBrown.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientDarkbrown.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientDarkgreen.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientDarkgrey.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientDarkred.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientGreen.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientGrey.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientOrange.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientRed.png
+Assets\nappin\House Props Softpack\Textures\(Txt)GradientYellow.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\btn_close.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\icon_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_1.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_2.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\medal_3.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_player.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\sub_points_player.png
+Assets\Ciconia Studio\Shaders\_Shared Files\Textures\Logo_2020_2K2.png
+Assets\Game\Texture\2-nd room\proctextures\texture1.png
+Assets\Game\Texture\2-nd room\proctextures\texture10.png
+Assets\Game\Texture\2-nd room\proctextures\texture11.png
+Assets\Game\Texture\2-nd room\proctextures\texture11b.png
+Assets\Game\Texture\2-nd room\proctextures\texture12.png
+Assets\Game\Texture\2-nd room\proctextures\texture13.png
+Assets\Game\Texture\2-nd room\proctextures\texture13b.png
+Assets\Game\Texture\2-nd room\proctextures\texture13c.png
+Assets\Game\Texture\2-nd room\proctextures\texture14.png
+Assets\Game\Texture\2-nd room\proctextures\texture14b.png
+Assets\Game\Texture\2-nd room\proctextures\texture15.png
+Assets\Game\Texture\2-nd room\proctextures\texture15b.png
+Assets\Game\Texture\2-nd room\proctextures\texture15c.png
+Assets\Game\Texture\2-nd room\proctextures\texture16.png
+Assets\Game\Texture\2-nd room\proctextures\texture16b.png
+Assets\Game\Texture\2-nd room\proctextures\texture16c.png
+Assets\Game\Texture\2-nd room\proctextures\texture17.png
+Assets\Game\Texture\2-nd room\proctextures\texture17b.png
+Assets\Game\Texture\2-nd room\proctextures\texture17c.png
+Assets\Game\Texture\2-nd room\proctextures\texture18.png
+Assets\Game\Texture\2-nd room\proctextures\texture18b.png
+Assets\Game\Texture\2-nd room\proctextures\texture19.png
+Assets\Game\Texture\2-nd room\proctextures\texture1b.png
+Assets\Game\Texture\2-nd room\proctextures\texture1c.png
+Assets\Game\Texture\2-nd room\proctextures\texture2.png
+Assets\Game\Texture\2-nd room\proctextures\texture20.png
+Assets\Game\Texture\2-nd room\proctextures\texture21.png
+Assets\Game\Texture\2-nd room\proctextures\texture21b.png
+Assets\Game\Texture\2-nd room\proctextures\texture21c.png
+Assets\Game\Texture\2-nd room\proctextures\texture22.png
+Assets\Game\Texture\2-nd room\proctextures\texture23.png
+Assets\Game\Texture\2-nd room\proctextures\texture24.png
+Assets\Game\Texture\2-nd room\proctextures\texture24b.png
+Assets\Game\Texture\2-nd room\proctextures\texture24c.png
+Assets\Game\Texture\2-nd room\proctextures\texture25.png
+Assets\Game\Texture\2-nd room\proctextures\texture26.png
+Assets\Game\Texture\2-nd room\proctextures\texture26b.png
+Assets\Game\Texture\2-nd room\proctextures\texture26c.png
+Assets\Game\Texture\2-nd room\proctextures\texture27.png
+Assets\Game\Texture\2-nd room\proctextures\texture28.png
+Assets\Game\Texture\2-nd room\proctextures\texture28b.png
+Assets\Game\Texture\2-nd room\proctextures\texture28c.png
+Assets\Game\Texture\2-nd room\proctextures\texture3.png
+Assets\Game\Texture\2-nd room\proctextures\texture38.png
+Assets\Game\Texture\2-nd room\proctextures\texture39.png
+Assets\Game\Texture\2-nd room\proctextures\texture4.png
+Assets\Game\Texture\2-nd room\proctextures\texture5.png
+Assets\Game\Texture\2-nd room\proctextures\texture6.png
+Assets\Game\Texture\2-nd room\proctextures\texture6b.png
+Assets\Game\Texture\2-nd room\proctextures\texture7.png
+Assets\Game\Texture\2-nd room\proctextures\texture8.png
+Assets\Game\Texture\2-nd room\proctextures\texture9.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Bath.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Floor.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Rug.png
+Assets\Game\Texture\3-rd room 1\3-rd room\ShowerCabinPart2.png
+Assets\Game\Texture\3-rd room 1\3-rd room\TablePart1.png
+Assets\Game\Texture\3-rd room 1\3-rd room\texture5.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Texture_128x128_1.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Texture_128x128_18.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Texture_128x128_19.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Texture_128x128_24.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Texture_128x128_27.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Texture_128x128_38.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Texture_128x128_46.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Texture_128x128_47.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Texture_128x128_48.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Wall1.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Wall2.png
+Assets\Game\Texture\3-rd room 1\3-rd room\Wall3.png
+Assets\Game\Texture\64x\64x\Bark.png
+Assets\Game\Texture\64x\64x\bookshelf.png
+Assets\Game\Texture\64x\64x\CrackOver.png
+Assets\Game\Texture\64x\64x\CrateOver.png
+Assets\Game\Texture\64x\64x\Dirt.png
+Assets\Game\Texture\64x\64x\GemOv1.png
+Assets\Game\Texture\64x\64x\GemOv2.png
+Assets\Game\Texture\64x\64x\GemOv3.png
+Assets\Game\Texture\64x\64x\GemOv4.png
+Assets\Game\Texture\64x\64x\Glass.png
+Assets\Game\Texture\64x\64x\GlassFacete.png
+Assets\Game\Texture\64x\64x\Gold0.png
+Assets\Game\Texture\64x\64x\Gold1.png
+Assets\Game\Texture\64x\64x\Grass.png
+Assets\Game\Texture\64x\64x\Iron.png
+Assets\Game\Texture\64x\64x\LavaF1.png
+Assets\Game\Texture\64x\64x\LavaF2.png
+Assets\Game\Texture\64x\64x\LavaF3.png
+Assets\Game\Texture\64x\64x\LavaF4.png
+Assets\Game\Texture\64x\64x\LeavesOP.png
+Assets\Game\Texture\64x\64x\LeavesTS.png
+Assets\Game\Texture\64x\64x\MossOver.png
+Assets\Game\Texture\64x\64x\Mud.png
+Assets\Game\Texture\64x\64x\OreVein.png
+Assets\Game\Texture\64x\64x\Planks.png
+Assets\Game\Texture\64x\64x\Sand.png
+(1192, 402) | (1192, 404) Assets\Game\Texture\64x\64x\Screen.png
+Assets\Game\Texture\64x\64x\SmoothStone.png
+Assets\Game\Texture\64x\64x\Stone.png
+Assets\Game\Texture\64x\64x\TilledSoil.png
+Assets\Game\Texture\64x\64x\TreeRings.png
+Assets\Game\Texture\64x\64x\WalkStone.png
+Assets\Game\Texture\64x\64x\WaterF2.png
+Assets\Game\Texture\64x\64x\WaterF3.png
+Assets\Game\Texture\64x\64x\WaterF4.png
+Assets\Game\Texture\64x\64x\WoolSnow.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_1.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_10.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_11.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_13.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_14.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_15.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_16.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_17.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_18.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_19.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_2.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_21.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_22.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_23.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_24.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_25.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_26.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_27.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_28.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_29.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_3.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_30.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_31.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_32.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_33.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_34.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_35.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_37.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_38.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_39.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_4.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_40.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_41.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_42.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_43.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_44.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_45.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_46.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_47.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_48.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_49.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_5.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_50.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_6.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_7.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_8.png
+Assets\Game\Texture\sbs_-_seamless_abstract_pack_-_128x128\128x128\Texture_128x128_9.png
+Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX3_T_Ground.png
+Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX Demo Btn Arrow R.png
+Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX Demo Btn Arrow.png
+Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX Demo Btn Camera H.png
+Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX Demo Btn Camera.png
+Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX Demo Btn Ground H.png
+Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX Demo Btn Ground.png
+Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX Demo Btn SlowMo H.png
+Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX Demo Btn SlowMo.png
+(338, 45) | (340, 48) Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX1 Demo Logo.png
+(338, 45) | (340, 48) Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX2 Demo Logo.png
+(338, 45) | (340, 48) Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX3 Demo Logo.png
+(338, 45) | (340, 48) Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFX4 Demo Logo.png
+(338, 45) | (340, 48) Assets\JMO Assets\Cartoon FX (legacy)\Demo\UI Canvas\CFXFree Demo Logo.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr aura rays.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr aura runic.png
+(1024, 1536) | (1032, 1536) Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr blood dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr blood splash dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr blood splash.png
+(1024, 1536) | (1032, 1536) Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr blood.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr bubble 2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr bubble.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr card club.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr card diamond.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr card heart.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr card spade.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr cloud blur.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr debris 3x3 normal.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr debris 3x3.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr debris flat unlit 3x3.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr debris ice 2x2 normal.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr debris ice 2x2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr debris unlit 3x3.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr debris wood 3x3 normal.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr debris wood 3x3.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr debris wood unlit 3x3.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr electric arc anim x4.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr electric arcs fade x4.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr electric arcs x4.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr electric small anim 4x2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr electric small anim2 7x2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr electric spark.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ember blur.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr explosion second color map.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr explosion smoke alpha.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr explosion smoke dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fire circle blur.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fire circle crisp.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fire circle drawn blurred.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fire circle drawn.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fire circle plain.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fire edge dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fire edge.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fire small anim blurred.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fire small anim.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr flamme blur.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr flamme candle.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr flamme crisp.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr flamme full blurred.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr flamme plain.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr flamme stepped.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr flare.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr fly anim x4.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ghost trail.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr heart break dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr heart break parts.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr heart.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr hit triangle 2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr hit triangle diamond dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr hit triangle dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr hit triangle.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr leave a normal.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr leave a.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr leave b normal.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr leave b.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr line loop electric.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr magic star.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr noise clouds big.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr perlin big.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr perlin mid.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr perlin smudge.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr petal normal.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr petal pink x4.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr puddle dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr puddle.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ring arc.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ring electric.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ring ice.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ring ripple arc dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ring ripple dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ring spikes revert.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr screen distortion debug.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr screen distortion perlin.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr screen distortion ring.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr screen distortion sphere.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr skull 2 dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr skull 2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr skull dissolve alt.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr skull dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr skull outer outline.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr skull.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smiley angry.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smiley frown.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smiley happy.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smiley smile.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smoke cloud corner dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smoke cloud corner.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smoke cloud x4 blurred.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smoke cloud x4 dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smoke cloud x4 normal.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smoke cloud x4 second color.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smoke cloud x4 white.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr smoke cloud x4.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr spikes half impact gradient.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr spikes impact dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr spikes impact.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr star blurred.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr star.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch flamme crisp dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch flamme crisp.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch inv spike fade.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch rain blur.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch ray blur.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch rectangle ray blur.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch rectangle ray.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch sipkes blur x2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch sipkes dissolve smooth x2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch sipkes dissolve x2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch sipkes x2.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch skull dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch skull.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch smoke arc dissolve.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch smoke arc.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch smoke fume.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch spike fade.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch steam blur distort.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch trait blur.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch trait.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr stretch triangle fade.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr sword trail mask light.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr sword trail mask lines.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr sword trail mask plain.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr sword trail noise bubbles.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr sword trail noise ice.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr sword trail noise tech.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr uv distortion fire perlin.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr uv distortion fire smudge.png
+(512, 768) | (528, 768) Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr water drop blur anim.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr water foam.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr water small splash hollow stretch.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr water small splash stretch.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ww smoke bright.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ww smoke first color.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ww smoke glow.png
+Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Graphics\cfxr ww smoke second color.png
+(4949, 72) | (4952, 72) Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Misc\cfxr font AmazGoDaBold.png
+(4330, 80) | (4332, 80) Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Misc\cfxr font WashYourHand.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Arrow R.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Arrow.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Bloom H.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Bloom.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Camera H.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Camera.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn CameraShake H.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn CameraShake.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Ground H.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Ground.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Lights H.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn Lights.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn SlowMo H.png
+Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXR Demo Btn SlowMo.png
+(364, 45) | (364, 48) Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\UI\CFXRF Demo Logo.png
+Assets\Plugins\Pixelplacement\iTween\Images\iTweenNews.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Bench\T_Bench_AO.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Bench\T_Bench_Basecolor.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Bench\T_Bench_Normal.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Cactus\T_Cactus_AO.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Cactus\T_Cactus_Basecolor.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Cactus\T_Cactus_Normal.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Coleus\T_Coleus_AO.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Coleus\T_Coleus_Normal.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Coleus\T_Coleus_Opacity.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Cucumber\T_Cucumber_AO.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Cucumber\T_Cucumber_Basecolor.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Cucumber\T_Cucumber_Normal.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Monstera\T_Monstera_AO.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Monstera\T_Monstera_Basecolor.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Monstera\T_Monstera_Normal.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Pot\T_Pot_AO.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Pot\T_Pot_Basecolor.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Tomato\T_TomatoGreen_Basecolor.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Tomato\T_TomatoRed_Basecolor.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Tomato\T_Tomato_AO.png
+Assets\SandoraKa\Stylized Potted Plants\Textures\Tomato\T_Tomato_normal.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\substrate_text.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_players_frame.png
+Assets\!YaAssets\Leaderboard\Sprites\panel\white\sub_points.png
+Assets\Ciconia Studio\Shaders\_Shared Files\Textures\Grayscale Map\Cell.png
+Assets\Ciconia Studio\Shaders\_Shared Files\Textures\Grayscale Map\Cloud.png
+Assets\Ciconia Studio\Shaders\_Shared Files\Textures\Grayscale Map\Crys.png
+Assets\Ciconia Studio\Shaders\_Shared Files\Textures\Grayscale Map\Distortion.png
+Assets\Ciconia Studio\Shaders\_Shared Files\Textures\Grayscale Map\Fibers.png
+Assets\Ciconia Studio\Shaders\_Shared Files\Textures\RockyDirt\RockyDirt_albedo.png
+Assets\Ciconia Studio\Shaders\_Shared Files\Textures\RockyDirt\RockyDirt_normal.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Asphalt\Ground_Asphalt_AmbientOcclusion.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Asphalt\Ground_Asphalt_BaseColor.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Asphalt\Ground_Asphalt_Height.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Asphalt\Ground_Asphalt_MetallicSmoothness.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Asphalt\Ground_Asphalt_Normal.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Miscellaneous\GridBox_CSDemo.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Miscellaneous\GridBox_CSDemo_Cracks.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Miscellaneous\GridBox_CSDemo_NoGrid.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Miscellaneous\GridBox_Default.png
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Miscellaneous\GridBox_NoText.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 10 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 11 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 12 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 13 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 14 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 15 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 16 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 17 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 18 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 19 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 2 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 20 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 21 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 22 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 23 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 25 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 3 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 4 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 5 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 8 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Bricks\Brick 9 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 1 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 10 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 11 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 12 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 13 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 14 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 15 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 16 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 17 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 18 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 19 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 2 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 20 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 21 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 22 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 24 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 25 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 3 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 4 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 5 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 6 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 7 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 8 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Grass\Grass 9 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 1 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 10 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 11 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 12 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 13 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 14 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 15 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 16 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 17 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 18 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 19 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 2 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 20 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 21 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 22 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 23 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 24 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 25 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 3 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 4 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 5 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 6 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 7 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 8 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Roofs\Roof 9 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 1 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 10 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 11 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 12 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 14 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 16 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 17 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 18 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 19 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 2 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 20 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 22 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 23 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 24 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 25 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 3 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 4 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 5 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 6 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 7 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 8 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Tile\Tile 9 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 10 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 13 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 14 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 15 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 16 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 17 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 19 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 2 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 21 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 22 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 24 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 25 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 3 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 4 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 5 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 6 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 7 - 128x128.png
+Assets\Game\Texture\sbs_-_tiny_texture_pack_-_128x128\128x128\Wood\Wood 8 - 128x128.png
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\Textures\LawnMower M-S.png
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\Textures\LawnMower Metallic.png
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\Textures\LawnMower Smoothness.png
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\Textures\LawnMower_C 1.png
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\Textures\LawnMower_C.png
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\Textures\LawnMower_M.png
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\Textures\LawnMower_S.png
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\Textures\NormalMap (64) 1.png
+Assets\IronBlade Assets\Power Garden Tools\import\LawnMower\Textures\NormalMap (64).png
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\Textures\NormalMap (62) 1.png
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\Textures\NormalMap (62).png
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\Textures\StringTrimmer M-S.png
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\Textures\StringTrimmer Metallic.png
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\Textures\StringTrimmer Smoothness.png
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\Textures\StringTrimmer_C_Var3 1.png
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\Textures\StringTrimmer_C_Var3.png
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\Textures\StringTrimmer_M.png
+Assets\IronBlade Assets\Power Garden Tools\import\StringTrimmer\Textures\StringTrimmer_S.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Fence\Low_Fence_Albedo.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Fence\Low_Fence_ao.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Fence\Low_Fence_normal.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Fence\Low_Fence_specular.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Panel\Panel_BaseColor_Ciconia.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Panel\Panel_BaseColor_Unity.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Panel\Panel_Roughness.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Wall & Window\Window_Window_MetallicRoughness.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Wall & Window\Window_Window_Roughness.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Wall & Window\Window_Wood_AlbedoTransparency.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Wall & Window\Window_Wood_Height.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Wall & Window\Window_Wood_Normal.png
+Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\Demo Scene\Sources\Models\Wall & Window\Window_Wood_Roughness.png
+Assets\2D Casual UI\Original Artwork\GUI.psd
+Assets\Gardening_Tools_Pack_26_PBR_objects\Textures\Gardening_Tools_001_A.tga
+Assets\Gardening_Tools_Pack_26_PBR_objects\Textures\Gardening_Tools_001_AO.tga
+Assets\Gardening_Tools_Pack_26_PBR_objects\Textures\Gardening_Tools_001_M.tga
+Assets\Gardening_Tools_Pack_26_PBR_objects\Textures\Gardening_Tools_001_N.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Blood_AB.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Decal_BloodPuddle_AB.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_SmallRocks_4Frames.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_Wood.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX2_T_WWSmoke Glow AB.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX3_T_Leaf.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Flame1_ABP.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Smoke_4Frames.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Star.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Text_Boom.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Text_HitRandom.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Text_Poof.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Text_Slash.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Text_Splash.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Text_Woooshh.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Text_Zap.tga
+Assets\JMO Assets\Cartoon FX (legacy)\Textures\CFX_T_Thunderbolt.tga
+Assets\Gardening Supply Set\Resources\Furniture\Textures\env.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_flowerpot_01a_c.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_flowerpot_01a_n.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_flowerpot_02a_c.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_flowerpot_02a_n.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_flowerstand_01a_c.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_flowerstand_01a_n.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_flowerstand_02a_c.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_flowerstand_02a_n.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_wateringcan_01a_c.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_wateringcan_01a_n.tif
+Assets\Gardening Supply Set\Resources\Furniture\Textures\Furniture_wateringcan_01b_c.tif
+Assets\SandoraKa\Stylized Potted Plants\Textures\Coleus\T_Coleus01_Basecolor.tif
+Assets\SandoraKa\Stylized Potted Plants\Textures\Coleus\T_Coleus02_Basecolor.tif
+Assets\SandoraKa\Stylized Potted Plants\Textures\Coleus\T_Coleus03_Basecolor.tif
+Assets\Ciconia Studio\_Shared Files\Demo Environment\Textures\Miscellaneous\Cracks.tif
+---------------------------------------
+Textures optimization finished at 12.01.2025 19:16:07
+1353 files has been optimized.
+
+

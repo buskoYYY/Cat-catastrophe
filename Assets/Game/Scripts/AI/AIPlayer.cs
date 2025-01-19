@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -14,15 +12,12 @@ public class AItest : MonoBehaviour
     [SerializeField] private float _explosionForce;
     [SerializeField] private float _explosionRadius;
     [SerializeField] private float _initialTimeToChangeDest;
-    [SerializeField] private int _startAILevel = 1;
     [SerializeField] private float _radius = 10f;
     private float _timeToChangeDest;
-
 
     private void Start()
     {
         _timeToChangeDest = _initialTimeToChangeDest;
-        _animator.Play("walk");
     }
     private void Update()
     {
@@ -32,7 +27,6 @@ public class AItest : MonoBehaviour
         {
             _timeToChangeDest = _initialTimeToChangeDest;
         }
-        Debug.Log(_timeToChangeDest);
 
         if ( roundTime == 0 || _navMeshAgent.remainingDistance < 1.5f)
         {
@@ -57,7 +51,7 @@ public class AItest : MonoBehaviour
         rigidbody.AddExplosionForce(explosionForce, transform.position + Vector3.down, explosionRadius, .2f);
     }
 
-    private Vector3 RandomNavMeshLocation(float radius) // возвращается вектор 3 который будет будет местом движения кота
+    private Vector3 RandomNavMeshLocation(float radius)
     {
         Vector3 randomDirection = Random.insideUnitSphere * radius;
         randomDirection += transform.position;
@@ -70,9 +64,9 @@ public class AItest : MonoBehaviour
         return finalPosition;
     }
 
-    public void ChangeDest()
+    private void ChangeDest()
     {
         _navMeshAgent.destination = RandomNavMeshLocation(_radius);
+        _animator.Play("walk");
     }
-
 }

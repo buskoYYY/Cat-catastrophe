@@ -1,7 +1,6 @@
 using System;
 using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class ToggleAudioState : MonoBehaviour
 {
@@ -14,19 +13,17 @@ public class ToggleAudioState : MonoBehaviour
 
     [Header("Settings")]
     private const string muted = nameof(muted);
-    private bool _isMuted = false;
 
     private void Awake()
     {
-
         _dropdown = FindObjectOfType<TMP_Dropdown>();
     }
 
     private void Start()
     {
-        if (!PlayerPrefs.HasKey(muted))
+        if (!YG.SavesYG.HasKey(muted))
         {
-            PlayerPrefs.SetInt(muted, 0);
+            YG.SavesYG.SetInt(muted, 0);
         }
         else
         {
@@ -35,12 +32,12 @@ public class ToggleAudioState : MonoBehaviour
     }
     private void LoadAudioState()
     {
-        _dropdown.value = PlayerPrefs.GetInt(muted);
+        _dropdown.value = YG.SavesYG.GetInt(muted);
     }
 
     private void SaveAudioState()
     {
-        PlayerPrefs.SetInt(muted, _dropdown.value);
+        YG.SavesYG.SetInt(muted, _dropdown.value);
     }
 
     public void ToggleState()

@@ -6,6 +6,7 @@ public class TimeEndPanelDiaplay : MonoBehaviour
     [Header("Elements")]
     [SerializeField] private ThirdPersonController _thirdPersonController;
     [SerializeField] private GameObject _timeEndPanel;
+    [SerializeField] private AIActivator _aIActivator;
 
     [Header("Setiings")]
     [SerializeField] private float _timeToLoadPanel;
@@ -19,12 +20,14 @@ public class TimeEndPanelDiaplay : MonoBehaviour
     {
         StartCoroutine(LoadTimeEndScene());
         _thirdPersonController.MoveDisable();
+        _aIActivator.AIDisactive();
     }
 
     private void CloseTimeEndPanel()
     {
         _timeEndPanel.SetActive(false);
         _thirdPersonController.MoveEnable();
+        _aIActivator.AIActive();
     }
 
     IEnumerator LoadTimeEndScene()

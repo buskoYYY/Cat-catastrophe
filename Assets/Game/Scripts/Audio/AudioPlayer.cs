@@ -1,11 +1,10 @@
-using System.Diagnostics;
-using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 using System;
 
 public class AudioPlayer : MonoBehaviour
 {
+    public static AudioPlayer instance;
+
     [Header("Elements")]
     [SerializeField] private AudioClip _hittingClip;
     [SerializeField][Range(0f, 1f)] private float _hittingVolume = 1f;
@@ -13,8 +12,6 @@ public class AudioPlayer : MonoBehaviour
 
     [Header("Elements")]
     private bool _isUnmute = true;
-
-    public static AudioPlayer instance;
 
     private void Awake()
     {

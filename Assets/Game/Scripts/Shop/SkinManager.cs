@@ -9,17 +9,17 @@ public class SkinManager : ScriptableObject
     [Header("Const")]
     private const string Prefix = "Skin_";
 
-    public void SelectSkin(int skinIndex) => PlayerPrefs.SetInt("SelectedSkin", skinIndex);
+    public void SelectSkin(int skinIndex) => YG.SavesYG.SetInt("SelectedSkin", skinIndex);
 
     public Skin GetSelectedSkin()
     {
-        int skinIndex = PlayerPrefs.GetInt("SelectedSkin", 0);
+        int skinIndex = YG.SavesYG.GetInt("SelectedSkin", 0);
         if (skinIndex >= 0 && skinIndex < skins.Length)
             return skins[skinIndex];
         else
             return null;
     }
-    public void Unlock(int skinIndex) => PlayerPrefs.SetInt(Prefix + skinIndex, 1); 
+    public void Unlock(int skinIndex) => YG.SavesYG.SetInt(Prefix + skinIndex, 1); 
 
-    public bool IsUnlocked(int skinIndex) => PlayerPrefs.GetInt(Prefix + skinIndex, 0) == 1; 
+    public bool IsUnlocked(int skinIndex) => YG.SavesYG.GetInt(Prefix + skinIndex, 0) == 1; 
 }

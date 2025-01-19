@@ -7,15 +7,15 @@ public class ScoreManager : MonoBehaviour
 
     private void Awake()
     {
-        if (PlayerPrefs.HasKey("coins"))
+        if (YG.SavesYG.HasKey("coins"))
         {
-            _score = PlayerPrefs.GetInt("coins");
+            _score = YG.SavesYG.GetInt("coins");
         }
         else
         {
-            PlayerPrefs.SetInt("coins", 0);
+            YG.SavesYG.SetInt("coins", 0);
         }
-        _score = PlayerPrefs.GetInt("coins", 0);
+        _score = YG.SavesYG.GetInt("coins", 0);
     }
 
     public void ModifyScore(int value)
@@ -25,12 +25,12 @@ public class ScoreManager : MonoBehaviour
 
     public int GetScore()
     {
-        _score = PlayerPrefs.GetInt("coins");
+        _score = YG.SavesYG.GetInt("coins");
         return _score;
     }
     
     public void SaveScore()
     {
-       PlayerPrefs.SetInt("coins", _score);
+       YG.SavesYG.SetInt("coins", _score);
     }
 }

@@ -1,40 +1,24 @@
-using NaughtyAttributes;
 using System;
 using UnityEngine;
+using YaAssets;
 
 public class ExtraTimeController : MonoBehaviour
 {
     public static Action AddExtraTime;
 
     [Header("Settings")]
-    [SerializeField] private float _extraTime;
-    public float ExtraTime {  get { return _extraTime; }}
-    [SerializeField] private int _extraTimeAmmount;
-    private int _initialExtraTimeAmmount;
-    private bool _isExtraTimeAvailable => _extraTimeAmmount > 0;
+    [SerializeField] private float _extraTime; 
+    public float ExtraTime { get { return _extraTime; } }
+    private string _extraTimeInfo;
 
-    private void Start()
+
+    public void WatchAdds()
     {
-        _initialExtraTimeAmmount = _extraTimeAmmount;
+        AddExtraTime?.Invoke();
     }
 
-    [Button("AddExtraTimeAmmount")]
-    private void WatchAdds()
+    public string ExtraTimeDisplayInfo()
     {
-        Debug.Log("You watched adds and get extraTime");
-        _extraTimeAmmount = _initialExtraTimeAmmount;
-    }
-
-    public void GetExtraTime()
-    {
-        if (_isExtraTimeAvailable)
-        {
-            _extraTimeAmmount--;
-            AddExtraTime?.Invoke();
-        }
-        else
-        {
-            Debug.Log("Extra time is not available");
-        }
+        return _extraTimeInfo = Localization.GetText("ѕосмотреть рекламу и получить ") + _extraTime + Localization.GetText("с времени");
     }
 }
